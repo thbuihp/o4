@@ -1609,7 +1609,7 @@ http://cdn.only4.online/8118/index.m3u8?token=
 http://cdn.only4.online/9701/index.m3u8?token=
 #EXTINF:-1 tvg-id="deutsche-welle-eu" tvg-logo="http://only4.tv/ch/9710.png",Deutsche Welle
 http://cdn.only4.online/9710/index.m3u8?token=
-#EXTINF:-1 tvg-id="tv5-monde" tvg-logo="http://only4.tv/ch/9762.png",TV 5 Monde
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9762.png",TV21
 http://cdn.only4.online/9762/index.m3u8?token=
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="http://only4.tv/ch/6919.png",Перец Int.
 http://cdn.only4.online/6919/index.m3u8?token=
