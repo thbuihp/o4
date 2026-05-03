@@ -3767,8 +3767,6 @@ http://cdn.only4.online/5605/index.m3u8?token=
 http://cdn.only4.online/0159/index.m3u8?token=
 #EXTINF:-1 tvg-id="ictv-ukraine" tvg-logo="http://only4.tv/ch/8609.png",ICTV 2
 http://cdn.only4.online/8609/index.m3u8?token=
-#EXTINF:-1 tvg-id="ictv-serialy" tvg-logo="http://only4.tv/ch/10567.png",ICTV Серіали HD
-http://cdn.only4.online/10567/index.m3u8?token=
 #EXTINF:-1 tvg-id="novy-kanal-ua" tvg-logo="http://only4.tv/ch/5603.png",Новий Канал HD
 http://cdn.only4.online/5603/index.m3u8?token=
 #EXTINF:-1 tvg-id="novy-kanal-ua" tvg-logo="http://only4.tv/ch/0194.png",Новий Канал
@@ -6209,7 +6207,7 @@ http://cdn.only4.online/7111/index.m3u8?token=
 http://cdn.only4.online/10481/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://only4.tv/ch/10473.png",ONE Edge HD [IL]
 http://cdn.only4.online/10473/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7114.png",VIVA Telenovelas [IL]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7114.png",Life HD [IL]
 http://cdn.only4.online/7114/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7115.png",Arutz HaYeladim [IL]
 http://cdn.only4.online/7115/index.m3u8?token=
