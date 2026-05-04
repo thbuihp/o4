@@ -3557,7 +3557,7 @@ http://cdn.only4.online/8932/index.m3u8?token=
 http://cdn.only4.online/8933/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8934.png",Muzzik PopStar
 http://cdn.only4.online/8934/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8936.png",RITSA TV
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8936.png",Fun Radio TV
 http://cdn.only4.online/8936/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8937.png",RFM TV
 http://cdn.only4.online/8937/index.m3u8?token=
@@ -4815,7 +4815,7 @@ http://cdn.only4.online/6236/index.m3u8?token=
 http://cdn.only4.online/6237/index.m3u8?token=
 #EXTINF:-1 tvg-id="tnt-bravo-moldova" tvg-logo="http://only4.tv/ch/6238.png",Exclusiv TV [MD]
 http://cdn.only4.online/6238/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6239.png",UNU TV Moldova [MD]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6239.png",ТСВ [MD]
 http://cdn.only4.online/6239/index.m3u8?token=
 #EXTINF:-1 tvg-id="disney-channel-pl" tvg-logo="http://only4.tv/ch/6240.png",Disney Channel [MD]
 http://cdn.only4.online/6240/index.m3u8?token=
