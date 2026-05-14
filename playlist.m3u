@@ -881,9 +881,9 @@ http://cdn.only4.online/9415/index.m3u8?token=
 http://cdn.only4.online/10193/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayPapinyDochki.tv" tvg-logo="http://only4.tv/ch/10194.png",TVPlay Папины Дочки
 http://cdn.only4.online/10194/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayGayday.tv" tvg-logo="http://only4.tv/ch/10195.png",TVPlay Гайдай
+#EXTINF:-1 tvg-id="TVPlayGayday.tv" tvg-logo="http://only4.tv/ch/10195.png",TVPlay Фильмы Л.Гайдая HD
 http://cdn.only4.online/10195/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayDaneliya.tv" tvg-logo="http://only4.tv/ch/10196.png",TVPlay Данелия
+#EXTINF:-1 tvg-id="TVPlayDaneliya.tv" tvg-logo="http://only4.tv/ch/10196.png",TVPlay Фильмы Г.Данелии HD
 http://cdn.only4.online/10196/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayPsihoHD.tv" tvg-logo="http://only4.tv/ch/10402.png",TVPlay Психо HD
 http://cdn.only4.online/10402/index.m3u8?token=
@@ -897,9 +897,9 @@ http://cdn.only4.online/11181/index.m3u8?token=
 http://cdn.only4.online/10852/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11084.png",TVPlay Фильмы А.Балабанова HD
 http://cdn.only4.online/11084/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayNagiev.tv" tvg-logo="http://only4.tv/ch/11150.png",TVPlay Дмитрий Нагиев
+#EXTINF:-1 tvg-id="TVPlayNagiev.tv" tvg-logo="http://only4.tv/ch/11150.png",TVPlay Дмитрий Нагиев HD
 http://cdn.only4.online/11150/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayGalustyan.tv" tvg-logo="http://only4.tv/ch/11157.png",TVPlay Михаил Галустян
+#EXTINF:-1 tvg-id="TVPlayGalustyan.tv" tvg-logo="http://only4.tv/ch/11157.png",TVPlay Михаил Галустян HD
 http://cdn.only4.online/11157/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayMortalkombat.tv" tvg-logo="http://only4.tv/ch/11345.png",TVPlay Mortal Kombat HD
 http://cdn.only4.online/11345/index.m3u8?token=
@@ -3309,7 +3309,7 @@ http://cdn.only4.online/9685/index.m3u8?token=
 http://cdn.only4.online/9673/index.m3u8?token=
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="http://only4.tv/ch/9674.png",Неизвестная Россия HD
 http://cdn.only4.online/9674/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://only4.tv/ch/9810.png",TVPlay Следствие Вели
+#EXTINF:-1 tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://only4.tv/ch/9810.png",TVPlay Следствие вели с Л.Каневским
 http://cdn.only4.online/9810/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayBiografii.tv" tvg-logo="http://only4.tv/ch/9811.png",TVPlay Биографии
 http://cdn.only4.online/9811/index.m3u8?token=
@@ -7769,11 +7769,11 @@ http://cdn.only4.online/9718/index.m3u8?token=
 http://cdn.only4.online/9775/index.m3u8?token=
 #EXTINF:-1 tvg-id="vivid-touch" tvg-logo="http://only4.tv/ch/9776.png",Vivid TV (Europe)
 http://cdn.only4.online/9776/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayNasheXXX.tv" tvg-logo="http://only4.tv/ch/10197.png",TVPlay Наше XXX
+#EXTINF:-1 tvg-id="TVPlayNasheXXX.tv" tvg-logo="http://only4.tv/ch/10197.png",TVPlay НашеXXX
 http://cdn.only4.online/10197/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayWorldXXX.tv" tvg-logo="http://only4.tv/ch/10198.png",TVPlay World XXX
+#EXTINF:-1 tvg-id="TVPlayWorldXXX.tv" tvg-logo="http://only4.tv/ch/10198.png",TVPlay WorldXXX
 http://cdn.only4.online/10198/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPlayMultXXX.tv" tvg-logo="http://only4.tv/ch/10199.png",TVPlay Мульт XXX
+#EXTINF:-1 tvg-id="TVPlayMultXXX.tv" tvg-logo="http://only4.tv/ch/10199.png",TVPlay МультыXXX
 http://cdn.only4.online/10199/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-adult" tvg-logo="http://only4.tv/ch/10247.png",Velilla TV Adult Channel HD
 http://cdn.only4.online/10247/index.m3u8?token=
@@ -7787,7 +7787,7 @@ http://cdn.only4.online/10433/index.m3u8?token=
 http://cdn.only4.online/10986/index.m3u8?token=
 #EXTINF:-1 tvg-id="x00001" tvg-logo="http://only4.tv/ch/10987.png",Play-X Spy Sex HD
 http://cdn.only4.online/10987/index.m3u8?token=
-#EXTINF:-1 tvg-id="reality-kings" tvg-logo="http://only4.tv/ch/11244.png",Reality Kings TV HD
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://only4.tv/ch/11244.png",Кино 18+
 http://cdn.only4.online/11244/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://only4.tv/ch/11245.png",MyCamTV Pornstar
 http://cdn.only4.online/11245/index.m3u8?token=
