@@ -3263,7 +3263,7 @@ http://cdn.only4.online/9147/index.m3u8?token=
 http://cdn.only4.online/9217/index.m3u8?token=
 #EXTINF:-1 tvg-id="quiz-tv" tvg-logo="http://only4.tv/ch/8794.png",Quiz TV HD
 http://cdn.only4.online/8794/index.m3u8?token=
-#EXTINF:-1 tvg-id="soltv" tvg-logo="http://only4.tv/ch/8795.png",Соль ТВ HD
+#EXTINF:-1 tvg-id="sol" tvg-logo="http://only4.tv/ch/8795.png",Соль ТВ HD
 http://cdn.only4.online/8795/index.m3u8?token=
 #EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="http://only4.tv/ch/8796.png",Телепутешествия
 http://cdn.only4.online/8796/index.m3u8?token=
@@ -3355,7 +3355,7 @@ http://cdn.only4.online/10826/index.m3u8?token=
 http://cdn.only4.online/11117/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11118.png",Вне Закона
 http://cdn.only4.online/11118/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11147.png",Travel&Food HD
+#EXTINF:-1 tvg-id="travel-and-adventure" tvg-logo="http://only4.tv/ch/11147.png",Travel&Food HD
 http://cdn.only4.online/11147/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11211.png",555 Hunt-Fishing TV HD
 http://cdn.only4.online/11211/index.m3u8?token=
