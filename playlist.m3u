@@ -3199,8 +3199,6 @@ http://cdn.only4.online/7702/index.m3u8?token=
 http://cdn.only4.online/1310/index.m3u8?token=
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="http://only4.tv/ch/6262.png",Вопросы и Ответы
 http://cdn.only4.online/6262/index.m3u8?token=
-#EXTINF:-1 tvg-id="okino" tvg-logo="http://only4.tv/ch/6643.png",О! Кино
-http://cdn.only4.online/6643/index.m3u8?token=
 #EXTINF:-1 tvg-id="fashion-tv" tvg-logo="http://only4.tv/ch/0211.png",Fashion TV HD
 http://cdn.only4.online/0211/index.m3u8?token=
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://only4.tv/ch/406.png",HTB Право
@@ -3339,10 +3337,6 @@ http://cdn.only4.online/10688/index.m3u8?token=
 http://cdn.only4.online/10689/index.m3u8?token=
 #EXTINF:-1 tvg-id="znajem24" tvg-logo="http://only4.tv/ch/10690.png",Знаєм 24
 http://cdn.only4.online/10690/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10691.png",Невигадані Історії
-http://cdn.only4.online/10691/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10692.png",Мандруй UA
-http://cdn.only4.online/10692/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10693.png",Машина Часу
 http://cdn.only4.online/10693/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10694.png",Мир Наизнанку
