@@ -149,8 +149,6 @@ http://cdn.only4.online/6519/index.m3u8?token=
 http://cdn.only4.online/6521/index.m3u8?token=
 #EXTINF:-1 tvg-id="belgorod24" tvg-logo="http://only4.tv/ch/6523.png",Белгород 24
 http://cdn.only4.online/6523/index.m3u8?token=
-#EXTINF:-1 tvg-id="tro" tvg-logo="http://only4.tv/ch/6524.png",Союзный
-http://cdn.only4.online/6524/index.m3u8?token=
 #EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="http://only4.tv/ch/6527.png",Канал 450
 http://cdn.only4.online/6527/index.m3u8?token=
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://only4.tv/ch/6532.png",Мир HD
@@ -4455,22 +4453,30 @@ http://cdn.only4.online/11229/index.m3u8?token=
 http://cdn.only4.online/11236/index.m3u8?token=
 #EXTINF:-1 tvg-id="cpu_novy_rik_2" tvg-logo="http://only4.tv/ch/11237.png",CPU Новорічний 2 HD
 http://cdn.only4.online/11237/index.m3u8?token=
-#EXTINF:-1 tvg-id="trk-chernivci" tvg-logo="http://only4.tv/ch/11078.png",C4 (Чернівці) HD
-http://cdn.only4.online/11078/index.m3u8?token=
-#EXTINF:-1 tvg-id="detektivy" tvg-logo="http://only4.tv/ch/11111.png",Детективи HD
-http://cdn.only4.online/11111/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2009" tvg-logo="http://only4.tv/ch/11680.png",CPU Хітове Кіно 2009 HD
+http://cdn.only4.online/11680/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2010" tvg-logo="http://only4.tv/ch/11681.png",CPU Хітове Кіно 2010 HD
+http://cdn.only4.online/11681/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2011" tvg-logo="http://only4.tv/ch/11682.png",CPU Хітове Кіно 2011 HD
+http://cdn.only4.online/11682/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2012" tvg-logo="http://only4.tv/ch/11683.png",CPU Хітове Кіно 2012 HD
+http://cdn.only4.online/11683/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11151.png",Сонце+
 http://cdn.only4.online/11151/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11079.png",Правда ТУТ (Львів) HD
-http://cdn.only4.online/11079/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11154.png",Хроніка Війни HD
-http://cdn.only4.online/11154/index.m3u8?token=
+#EXTINF:-1 tvg-id="detektivy" tvg-logo="http://only4.tv/ch/11111.png",Детективи HD
+http://cdn.only4.online/11111/index.m3u8?token=
+#EXTINF:-1 tvg-id="trk-chernivci" tvg-logo="http://only4.tv/ch/11078.png",C4 (Чернівці) HD
+http://cdn.only4.online/11078/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11174.png",Діти Проти Зірок
 http://cdn.only4.online/11174/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11082.png",TIC (Одеса)
-http://cdn.only4.online/11082/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11154.png",Хроніка Війни HD
+http://cdn.only4.online/11154/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11079.png",Правда ТУТ (Львів) HD
+http://cdn.only4.online/11079/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11115.png",Віта ТБ (Вінниця) HD
 http://cdn.only4.online/11115/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11082.png",TIC (Одеса)
+http://cdn.only4.online/11082/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11085.png",Хіт Бойовик HD
 http://cdn.only4.online/11085/index.m3u8?token=
 #EXTINF:-1 tvg-id="2713-khit-komediya-hd" tvg-logo="http://only4.tv/ch/11086.png",Хіт Комедія HD
@@ -4723,8 +4729,6 @@ http://cdn.only4.online/5540/index.m3u8?token=
 http://cdn.only4.online/6253/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="http://only4.tv/ch/5541.png",Беларусь 3
 http://cdn.only4.online/5541/index.m3u8?token=
-#EXTINF:-1 tvg-id="tro" tvg-logo="http://only4.tv/ch/6250.png",Союзный HD
-http://cdn.only4.online/6250/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="http://only4.tv/ch/5543.png",Беларусь 5 HD
 http://cdn.only4.online/5543/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="http://only4.tv/ch/5542.png",Беларусь 5
@@ -4743,8 +4747,6 @@ http://cdn.only4.online/6248/index.m3u8?token=
 http://cdn.only4.online/7710/index.m3u8?token=
 #EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="http://only4.tv/ch/10702.png",РТР Беларусь HD
 http://cdn.only4.online/10702/index.m3u8?token=
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="http://only4.tv/ch/10814.png",Светлое ТВ
-http://cdn.only4.online/10814/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus4-brest" tvg-logo="http://only4.tv/ch/10815.png",Беларусь 4 Брест
 http://cdn.only4.online/10815/index.m3u8?token=
 #EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="http://only4.tv/ch/10938.png",Первый Информационный HD
