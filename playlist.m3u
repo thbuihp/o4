@@ -2563,6 +2563,8 @@ http://cdn.only4.online/10184/index.m3u8?token=
 http://cdn.only4.online/10185/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-wc2022" tvg-logo="http://only4.tv/ch/11004.png",Velilla TV World Cup 2022 HD
 http://cdn.only4.online/11004/index.m3u8?token=
+#EXTINF:-1 tvg-id="worldcup2026" tvg-logo="http://only4.tv/ch/11685.png",Velilla TV World Cup 2026 HD
+http://cdn.only4.online/11685/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-euro1984" tvg-logo="http://only4.tv/ch/10339.png",Velilla TV EuroCup 1984
 http://cdn.only4.online/10339/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-euro1988" tvg-logo="http://only4.tv/ch/10340.png",Velilla TV EuroCup 1988
@@ -2607,6 +2609,8 @@ http://cdn.only4.online/11473/index.m3u8?token=
 http://cdn.only4.online/11474/index.m3u8?token=
 #EXTINF:-1 tvg-id="fifapluswomen" tvg-logo="http://only4.tv/ch/11475.png",Velilla TV FIFA+ Women HD
 http://cdn.only4.online/11475/index.m3u8?token=
+#EXTINF:-1 tvg-id="golclassics" tvg-logo="http://only4.tv/ch/11684.png",Velilla TV Gol Classics HD
+http://cdn.only4.online/11684/index.m3u8?token=
 #EXTINF:-1 tvg-id="megogo-sport" tvg-logo="http://only4.tv/ch/9985.png",Megogo Спорт HD
 http://cdn.only4.online/9985/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayFOOTBALLHD.tv" tvg-logo="http://only4.tv/ch/11673.png",TVPlay Футбол HD
@@ -4911,9 +4915,9 @@ http://cdn.only4.online/10383/index.m3u8?token=
 http://cdn.only4.online/10385/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10386.png",S-Ikbol [UZ]
 http://cdn.only4.online/10386/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10387.png",Setanta Sports 1 HD [UZ]
+#EXTINF:-1 tvg-id="setanta1-uz" tvg-logo="http://only4.tv/ch/10387.png",Setanta Sports 1 HD [UZ]
 http://cdn.only4.online/10387/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10396.png",Setanta Sports 2 HD [UZ]
+#EXTINF:-1 tvg-id="setanta2-uz" tvg-logo="http://only4.tv/ch/10396.png",Setanta Sports 2 HD [UZ]
 http://cdn.only4.online/10396/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10389.png",Ruxsor TV [UZ]
 http://cdn.only4.online/10389/index.m3u8?token=
