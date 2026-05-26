@@ -4465,6 +4465,30 @@ http://cdn.only4.online/11681/index.m3u8?token=
 http://cdn.only4.online/11682/index.m3u8?token=
 #EXTINF:-1 tvg-id="cpu_top-films-2012" tvg-logo="http://only4.tv/ch/11683.png",CPU Хітове Кіно 2012 HD
 http://cdn.only4.online/11683/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2013" tvg-logo="http://only4.tv/ch/11686.png",CPU Хітове Кіно 2013 HD
+http://cdn.only4.online/11686/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2014" tvg-logo="http://only4.tv/ch/11687.png",CPU Хітове Кіно 2014 HD
+http://cdn.only4.online/11687/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2015" tvg-logo="http://only4.tv/ch/11688.png",CPU Хітове Кіно 2015 HD
+http://cdn.only4.online/11688/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2016" tvg-logo="http://only4.tv/ch/11689.png",CPU Хітове Кіно 2016 HD
+http://cdn.only4.online/11689/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2017" tvg-logo="http://only4.tv/ch/11690.png",CPU Хітове Кіно 2017 HD
+http://cdn.only4.online/11690/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2022" tvg-logo="http://only4.tv/ch/11691.png",CPU Хітове Кіно 2022 HD
+http://cdn.only4.online/11691/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2023" tvg-logo="http://only4.tv/ch/11692.png",CPU Хітове Кіно 2023 HD
+http://cdn.only4.online/11692/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2024" tvg-logo="http://only4.tv/ch/11693.png",CPU Хітове Кіно 2024 HD
+http://cdn.only4.online/11693/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2025" tvg-logo="http://only4.tv/ch/11694.png",CPU Хітове Кіно 2025 HD
+http://cdn.only4.online/11694/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_top-films-2026" tvg-logo="http://only4.tv/ch/11695.png",CPU Хітове Кіно 2026 HD
+http://cdn.only4.online/11695/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_biografichni" tvg-logo="http://only4.tv/ch/11696.png",CPU Біографічні Стрічки HD
+http://cdn.only4.online/11696/index.m3u8?token=
+#EXTINF:-1 tvg-id="cpu_fentezy" tvg-logo="http://only4.tv/ch/11697.png",CPU Кіно Фентезі HD
+http://cdn.only4.online/11697/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11151.png",Сонце+
 http://cdn.only4.online/11151/index.m3u8?token=
 #EXTINF:-1 tvg-id="detektivy" tvg-logo="http://only4.tv/ch/11111.png",Детективи HD
