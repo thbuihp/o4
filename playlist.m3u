@@ -1637,7 +1637,7 @@ http://cdn.only4.online/1320/index.m3u8?token=
 http://cdn.only4.online/7579/index.m3u8?token=
 #EXTINF:-1 tvg-id="yu-pl4" tvg-logo="http://only4.tv/ch/7580.png",Ю (+4)
 http://cdn.only4.online/7580/index.m3u8?token=
-#EXTINF:-1 tvg-id="yu-pl6" tvg-logo="http://only4.tv/ch/7581.png",Ю (+6)
+#EXTINF:-1 tvg-id="yu-pl7" tvg-logo="http://only4.tv/ch/7581.png",Ю (+7)
 http://cdn.only4.online/7581/index.m3u8?token=
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="http://only4.tv/ch/6465.png",ТНТ4 HD
 http://cdn.only4.online/6465/index.m3u8?token=
@@ -7109,7 +7109,7 @@ http://cdn.only4.online/10059/index.m3u8?token=
 http://cdn.only4.online/10060/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10061.png",Canal+ Action [NL]
 http://cdn.only4.online/10061/index.m3u8?token=
-#EXTINF:-1 tvg-id="comedy-central-pl" tvg-logo="http://only4.tv/ch/10062.png",Comedy Central [NL]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10062.png",Ketnet Junior [NL]
 http://cdn.only4.online/10062/index.m3u8?token=
 #EXTINF:-1 tvg-id="disney-channel-pl" tvg-logo="http://only4.tv/ch/10063.png",Disney Channel [NL]
 http://cdn.only4.online/10063/index.m3u8?token=
@@ -7159,7 +7159,7 @@ http://cdn.only4.online/10084/index.m3u8?token=
 http://cdn.only4.online/10085/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10086.png",Oost [NL]
 http://cdn.only4.online/10086/index.m3u8?token=
-#EXTINF:-1 tvg-id="paramount-network-pl" tvg-logo="http://only4.tv/ch/10087.png",Paramount Network [NL]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10087.png",WTV [NL]
 http://cdn.only4.online/10087/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10088.png",RTL Z [NL]
 http://cdn.only4.online/10088/index.m3u8?token=
