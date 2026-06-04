@@ -4665,7 +4665,7 @@ http://cdn.only4.online/10498/index.m3u8?token=
 http://cdn.only4.online/10499/index.m3u8?token=
 #EXTINF:-1 tvg-id="filmzone-lv" tvg-logo="http://only4.tv/ch/10500.png",FilmZone HD
 http://cdn.only4.online/10500/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmzone-plus-lv" tvg-logo="http://only4.tv/ch/10501.png",FilmZone Plus HD
+#EXTINF:-1 tvg-id="filmzone-plus-ee" tvg-logo="http://only4.tv/ch/10501.png",FilmZone Plus HD
 http://cdn.only4.online/10501/index.m3u8?token=
 #EXTINF:-1 tvg-id="sport1-lt" tvg-logo="http://only4.tv/ch/10507.png",Sport 1 HD
 http://cdn.only4.online/10507/index.m3u8?token=
