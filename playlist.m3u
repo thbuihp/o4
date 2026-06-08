@@ -923,7 +923,7 @@ http://cdn.only4.online/10676/index.m3u8?token=
 http://cdn.only4.online/10677/index.m3u8?token=
 #EXTINF:-1 tvg-id="kinokult" tvg-logo="http://only4.tv/ch/10877.png",КиноКульт HD
 http://cdn.only4.online/10877/index.m3u8?token=
-#EXTINF:-1 tvg-id="horrortv" tvg-logo="http://only4.tv/ch/10878.png",Ужас TV HD
+#EXTINF:-1 tvg-id="starmoves" tvg-logo="http://only4.tv/ch/10878.png",Star Movies HD
 http://cdn.only4.online/10878/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/10879.png",Sky 2000 HD
 http://cdn.only4.online/10879/index.m3u8?token=
