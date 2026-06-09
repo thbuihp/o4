@@ -903,7 +903,7 @@ http://cdn.only4.online/11157/index.m3u8?token=
 http://cdn.only4.online/11345/index.m3u8?token=
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="http://only4.tv/ch/9405.png",Kino 24
 http://cdn.only4.online/9405/index.m3u8?token=
-#EXTINF:-1 tvg-id="romance" tvg-logo="http://only4.tv/ch/9654.png",Romance HD
+#EXTINF:-1 tvg-id="romance" tvg-logo="http://only4.tv/ch/9654.png",Vesna HD
 http://cdn.only4.online/9654/index.m3u8?token=
 #EXTINF:-1 tvg-id="suspense" tvg-logo="http://only4.tv/ch/9655.png",Suspense HD
 http://cdn.only4.online/9655/index.m3u8?token=
@@ -7459,13 +7459,13 @@ http://cdn.only4.online/11602/index.m3u8?token=
 http://cdn.only4.online/11601/index.m3u8?token=
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://only4.tv/ch/11600.png",Sky Sports Main Event HD [UK]
 http://cdn.only4.online/11600/index.m3u8?token=
-#EXTINF:-1 tvg-id="btsport4.uk" tvg-logo="http://only4.tv/ch/11591.png",TNT Sports 4 (50 fps, 5.1) HD [UK]
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-logo="http://only4.tv/ch/11591.png",TNT Sports 4 (50 fps_5.1) HD [UK]
 http://cdn.only4.online/11591/index.m3u8?token=
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://only4.tv/ch/11590.png",TNT Sports 3 (50 fps, 5.1) HD [UK]
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-logo="http://only4.tv/ch/11590.png",TNT Sports 3 (50 fps_5.1) HD [UK]
 http://cdn.only4.online/11590/index.m3u8?token=
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="http://only4.tv/ch/11589.png",TNT Sports 2 (50 fps, 5.1) HD [UK]
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-logo="http://only4.tv/ch/11589.png",TNT Sports 2 (50 fps_5.1) HD [UK]
 http://cdn.only4.online/11589/index.m3u8?token=
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://only4.tv/ch/11588.png",TNT Sports 1 (50 fps, 5.1) HD [UK]
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-logo="http://only4.tv/ch/11588.png",TNT Sports 1 (50 fps_5.1) HD [UK]
 http://cdn.only4.online/11588/index.m3u8?token=
 #EXTINF:-1 tvg-id="foxnews.us" tvg-logo="http://only4.tv/ch/11582.png",FOX News HD [UK]
 http://cdn.only4.online/11582/index.m3u8?token=
