@@ -393,9 +393,9 @@ http://cdn.only4.online/5533/index.m3u8?token=
 http://cdn.only4.online/9657/index.m3u8?token=
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="http://only4.tv/ch/5535.png",Феникс плюс Кино
 http://cdn.only4.online/5535/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/5558.png",FilmBox
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/5558.png",FilmBox+ one
 http://cdn.only4.online/5558/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="http://only4.tv/ch/5536.png",FilmBox Arthouse
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="http://only4.tv/ch/5536.png",FilmBox+ festival
 http://cdn.only4.online/5536/index.m3u8?token=
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="http://only4.tv/ch/0277.png",Русский Детектив
 http://cdn.only4.online/0277/index.m3u8?token=
@@ -5315,15 +5315,15 @@ http://cdn.only4.online/6369/index.m3u8?token=
 http://cdn.only4.online/6370/index.m3u8?token=
 #EXTINF:-1 tvg-id="FightKlub.pl" tvg-logo="http://only4.tv/ch/6371.png",FightKlub HD [PL]
 http://cdn.only4.online/6371/index.m3u8?token=
-#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-logo="http://only4.tv/ch/6372.png",FilmBox Action [PL]
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-logo="http://only4.tv/ch/6372.png",FilmBox+ action [PL]
 http://cdn.only4.online/6372/index.m3u8?token=
-#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-logo="http://only4.tv/ch/6373.png",FilmBox Arthouse [PL]
+#EXTINF:-1 tvg-id="FilmboxArthouse.pl" tvg-logo="http://only4.tv/ch/6373.png",FilmBox+ festival [PL]
 http://cdn.only4.online/6373/index.m3u8?token=
-#EXTINF:-1 tvg-id="FilmBoxExtra.pl" tvg-logo="http://only4.tv/ch/6374.png",FilmBox Extra [PL]
+#EXTINF:-1 tvg-id="FilmBoxExtra.pl" tvg-logo="http://only4.tv/ch/6374.png",FilmBox+ emotion [PL]
 http://cdn.only4.online/6374/index.m3u8?token=
-#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-logo="http://only4.tv/ch/6375.png",FilmBox Family [PL]
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-logo="http://only4.tv/ch/6375.png",FilmBox+ comedy [PL]
 http://cdn.only4.online/6375/index.m3u8?token=
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-logo="http://only4.tv/ch/6376.png",FilmBox Premium [PL]
+#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-logo="http://only4.tv/ch/6376.png",FilmBox+ hits [PL]
 http://cdn.only4.online/6376/index.m3u8?token=
 #EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-logo="http://only4.tv/ch/6377.png",Food Network [PL]
 http://cdn.only4.online/6377/index.m3u8?token=
@@ -5349,7 +5349,7 @@ http://cdn.only4.online/6386/index.m3u8?token=
 http://cdn.only4.online/6387/index.m3u8?token=
 #EXTINF:-1 tvg-id="KinoPolskaMuzyka.pl" tvg-logo="http://only4.tv/ch/6388.png",Kino Polska Muzyka [PL]
 http://cdn.only4.online/6388/index.m3u8?token=
-#EXTINF:-1 tvg-id="kino-tv-pl" tvg-logo="http://only4.tv/ch/6389.png",Kino TV [PL]
+#EXTINF:-1 tvg-id="kino-tv-pl" tvg-logo="http://only4.tv/ch/6389.png",FilmBox+ one [PL]
 http://cdn.only4.online/6389/index.m3u8?token=
 #EXTINF:-1 tvg-id="KuchniaPlus.pl" tvg-logo="http://only4.tv/ch/6390.png",Canal+ Kuchnia HD [PL]
 http://cdn.only4.online/6390/index.m3u8?token=
@@ -5807,7 +5807,7 @@ http://cdn.only4.online/7202/index.m3u8?token=
 http://cdn.only4.online/7883/index.m3u8?token=
 #EXTINF:-1 tvg-id="tv85-tr" tvg-logo="http://only4.tv/ch/7884.png",TV 8.5 HD [TR]
 http://cdn.only4.online/7884/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7885.png",FilmBox [TR]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7885.png",FilmScreen int. [TR]
 http://cdn.only4.online/7885/index.m3u8?token=
 #EXTINF:-1 tvg-id="beyaz-tv-tr" tvg-logo="http://only4.tv/ch/7886.png",Beyaz TV HD [TR]
 http://cdn.only4.online/7886/index.m3u8?token=
@@ -6613,7 +6613,7 @@ http://cdn.only4.online/9200/index.m3u8?token=
 http://cdn.only4.online/9202/index.m3u8?token=
 #EXTINF:-1 tvg-id="golf-cnl-us" tvg-logo="http://only4.tv/ch/9204.png",Golf Channel HD [CZ]
 http://cdn.only4.online/9204/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/9205.png",FilmBox [CZ]
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/9205.png",FilmBox+ one [CZ]
 http://cdn.only4.online/9205/index.m3u8?token=
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="http://only4.tv/ch/9206.png",Nickelodeon [CZ]
 http://cdn.only4.online/9206/index.m3u8?token=
@@ -6633,13 +6633,13 @@ http://cdn.only4.online/9285/index.m3u8?token=
 http://cdn.only4.online/9286/index.m3u8?token=
 #EXTINF:-1 tvg-id="docubox-hd" tvg-logo="http://only4.tv/ch/9288.png",DocuBox [CZ]
 http://cdn.only4.online/9288/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-extra-pl" tvg-logo="http://only4.tv/ch/9309.png",FilmBox Extra HD [CZ]
+#EXTINF:-1 tvg-id="filmbox-extra-pl" tvg-logo="http://only4.tv/ch/9309.png",FilmBox+ emotion [CZ]
 http://cdn.only4.online/9309/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/9310.png",FilmBox Family [CZ]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/9310.png",FilmBox+ comedy [CZ]
 http://cdn.only4.online/9310/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-premium-pl" tvg-logo="http://only4.tv/ch/9322.png",FilmBox Premium HD [CZ]
+#EXTINF:-1 tvg-id="filmbox-premium-pl" tvg-logo="http://only4.tv/ch/9322.png",FilmBox+ hits [CZ]
 http://cdn.only4.online/9322/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/9323.png",FilmBox Stars [CZ]
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/9323.png",FilmBox+ love&crime [CZ]
 http://cdn.only4.online/9323/index.m3u8?token=
 #EXTINF:-1 tvg-id="ducktv" tvg-logo="http://only4.tv/ch/9289.png",Duck TV [CZ]
 http://cdn.only4.online/9289/index.m3u8?token=
