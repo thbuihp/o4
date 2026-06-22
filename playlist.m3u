@@ -3439,7 +3439,7 @@ http://cdn.only4.online/6516/index.m3u8?token=
 http://cdn.only4.online/6518/index.m3u8?token=
 #EXTINF:-1 tvg-id="matur-tv" tvg-logo="http://only4.tv/ch/6531.png",Матур ТВ HD
 http://cdn.only4.online/6531/index.m3u8?token=
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="http://only4.tv/ch/6549.png",Страна FM
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="http://only4.tv/ch/6549.png",Страна ТВ
 http://cdn.only4.online/6549/index.m3u8?token=
 #EXTINF:-1 tvg-id="tancuj" tvg-logo="http://only4.tv/ch/1806.png",Танцуй
 http://cdn.only4.online/1806/index.m3u8?token=
