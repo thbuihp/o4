@@ -1905,7 +1905,7 @@ http://cdn.only4.online/8733/index.m3u8?token=
 http://cdn.only4.online/8734/index.m3u8?token=
 #EXTINF:-1 tvg-id="box-remast-plus-4k" tvg-logo="http://only4.tv/ch/9362.png",BOX Remast+ 4K
 http://cdn.only4.online/9362/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11248.png",BOX Musik 2 4K
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11248.png",BOX Music 2 4K
 http://cdn.only4.online/11248/index.m3u8?token=
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="http://only4.tv/ch/8791.png",FunBox UHD
 http://cdn.only4.online/8791/index.m3u8?token=
@@ -3697,7 +3697,7 @@ http://cdn.only4.online/11172/index.m3u8?token=
 http://cdn.only4.online/11202/index.m3u8?token=
 #EXTINF:-1 tvg-id="Kli_Retro" tvg-logo="http://only4.tv/ch/11203.png",KLI Retro
 http://cdn.only4.online/11203/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11371.png",Infinity TV
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11371.png",Music Top
 http://cdn.only4.online/11371/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11372.png",Tele 7 Music
 http://cdn.only4.online/11372/index.m3u8?token=
@@ -3955,7 +3955,7 @@ http://cdn.only4.online/9436/index.m3u8?token=
 http://cdn.only4.online/9005/index.m3u8?token=
 #EXTINF:-1 tvg-id="my-ukraina-plus" tvg-logo="http://only4.tv/ch/10651.png",Ми - Україна+
 http://cdn.only4.online/10651/index.m3u8?token=
-#EXTINF:-1 tvg-id="ptv-ua" tvg-logo="http://only4.tv/ch/9006.png",Полтавське ТВ
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9006.png",Місто+
 http://cdn.only4.online/9006/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9008.png",Візит HD
 http://cdn.only4.online/9008/index.m3u8?token=
