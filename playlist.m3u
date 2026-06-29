@@ -6139,7 +6139,7 @@ http://cdn.only4.online/11334/index.m3u8?token=
 http://cdn.only4.online/11336/index.m3u8?token=
 #EXTINF:-1 tvg-id="baby-tv" tvg-logo="http://only4.tv/ch/7039.png",Baby TV [IL]
 http://cdn.only4.online/7039/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7040.png",Junior [IL]
+#EXTINF:-1 tvg-id="junior-il" tvg-logo="http://only4.tv/ch/7040.png",Junior [IL]
 http://cdn.only4.online/7040/index.m3u8?token=
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="http://only4.tv/ch/7041.png",Discovery Channel HD [IL]
 http://cdn.only4.online/7041/index.m3u8?token=
@@ -6177,11 +6177,11 @@ http://cdn.only4.online/10468/index.m3u8?token=
 http://cdn.only4.online/7058/index.m3u8?token=
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="http://only4.tv/ch/7062.png",12 Keshet [IL]
 http://cdn.only4.online/7062/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7063.png",Good Life TV [IL]
+#EXTINF:-1 tvg-id="good-life-tv-il" tvg-logo="http://only4.tv/ch/7063.png",Good Life TV [IL]
 http://cdn.only4.online/7063/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7064.png",Channel 24 [IL]
+#EXTINF:-1 tvg-id="channel-24-il" tvg-logo="http://only4.tv/ch/7064.png",Channel 24 [IL]
 http://cdn.only4.online/7064/index.m3u8?token=
-#EXTINF:-1 tvg-id="history" tvg-logo="http://only4.tv/ch/7065.png",History HD [IL]
+#EXTINF:-1 tvg-id="history-il" tvg-logo="http://only4.tv/ch/7065.png",History HD [IL]
 http://cdn.only4.online/7065/index.m3u8?token=
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="http://only4.tv/ch/7067.png",13 Reshet [IL]
 http://cdn.only4.online/7067/index.m3u8?token=
@@ -6197,23 +6197,23 @@ http://cdn.only4.online/7073/index.m3u8?token=
 http://cdn.only4.online/7074/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/7075.png",HOT TV Cinema Family HD [IL]
 http://cdn.only4.online/7075/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7076.png",Luli TV [IL]
+#EXTINF:-1 tvg-id="luli-tv-il" tvg-logo="http://only4.tv/ch/7076.png",Luli TV [IL]
 http://cdn.only4.online/7076/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7077.png",HOT Zone HD [IL]
+#EXTINF:-1 tvg-id="hot-zone-hd-il" tvg-logo="http://only4.tv/ch/7077.png",HOT Zone HD [IL]
 http://cdn.only4.online/7077/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10463.png",HOT Cinema 1 HD [IL]
+#EXTINF:-1 tvg-id="hot-cinema-1-hd-il" tvg-logo="http://only4.tv/ch/10463.png",HOT Cinema 1 HD [IL]
 http://cdn.only4.online/10463/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10464.png",HOT Cinema 2 HD [IL]
+#EXTINF:-1 tvg-id="hot-cinema-2-hd-il" tvg-logo="http://only4.tv/ch/10464.png",HOT Cinema 2 HD [IL]
 http://cdn.only4.online/10464/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10465.png",HOT Cinema 3 HD [IL]
+#EXTINF:-1 tvg-id="hot-cinema-3-hd-il" tvg-logo="http://only4.tv/ch/10465.png",HOT Cinema 3 HD [IL]
 http://cdn.only4.online/10465/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10466.png",HOT Cinema 4 HD [IL]
+#EXTINF:-1 tvg-id="hot-cinema-4-hd-il" tvg-logo="http://only4.tv/ch/10466.png",HOT Cinema 4 HD [IL]
 http://cdn.only4.online/10466/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10478.png",HOT Real HD [IL]
+#EXTINF:-1 tvg-id="hot-real-hd-il" tvg-logo="http://only4.tv/ch/10478.png",HOT Real HD [IL]
 http://cdn.only4.online/10478/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10479.png",HOT Senior HD [IL]
+#EXTINF:-1 tvg-id="hot-senior-hd-il" tvg-logo="http://only4.tv/ch/10479.png",HOT Senior HD [IL]
 http://cdn.only4.online/10479/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10480.png",HOT Buzz HD [IL]
+#EXTINF:-1 tvg-id="hot-buzz-hd-il" tvg-logo="http://only4.tv/ch/10480.png",HOT Buzz HD [IL]
 http://cdn.only4.online/10480/index.m3u8?token=
 #EXTINF:-1 tvg-id="yes-comedy" tvg-logo="http://only4.tv/ch/7081.png",YES TV Comedy HD [IL]
 http://cdn.only4.online/7081/index.m3u8?token=
@@ -6225,13 +6225,13 @@ http://cdn.only4.online/7084/index.m3u8?token=
 http://cdn.only4.online/10434/index.m3u8?token=
 #EXTINF:-1 tvg-id="disney-jr" tvg-logo="http://only4.tv/ch/7087.png",Disney Jr. HD [IL]
 http://cdn.only4.online/7087/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7106.png",Makan HD [IL]
+#EXTINF:-1 tvg-id="makan-hd-il" tvg-logo="http://only4.tv/ch/7106.png",Makan HD [IL]
 http://cdn.only4.online/7106/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7107.png",Real TV [IL]
+#EXTINF:-1 tvg-id="real-tv-il" tvg-logo="http://only4.tv/ch/7107.png",Real TV [IL]
 http://cdn.only4.online/7107/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7108.png",Home+ TV [IL]
+#EXTINF:-1 tvg-id="home-plus-tv-il" tvg-logo="http://only4.tv/ch/7108.png",Home+ TV [IL]
 http://cdn.only4.online/7108/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7109.png",Channel 14 [IL]
+#EXTINF:-1 tvg-id="channel-14-il" tvg-logo="http://only4.tv/ch/7109.png",Channel 14 [IL]
 http://cdn.only4.online/7109/index.m3u8?token=
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="http://only4.tv/ch/7110.png",Nickelodeon HD [IL]
 http://cdn.only4.online/7110/index.m3u8?token=
@@ -6241,125 +6241,125 @@ http://cdn.only4.online/7111/index.m3u8?token=
 http://cdn.only4.online/10481/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://only4.tv/ch/10473.png",ONE Edge HD [IL]
 http://cdn.only4.online/10473/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7114.png",Life HD [IL]
+#EXTINF:-1 tvg-id="life-hd-il" tvg-logo="http://only4.tv/ch/7114.png",Life HD [IL]
 http://cdn.only4.online/7114/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7115.png",Arutz HaYeladim [IL]
+#EXTINF:-1 tvg-id="arutz-hayeladim-il" tvg-logo="http://only4.tv/ch/7115.png",Arutz HaYeladim [IL]
 http://cdn.only4.online/7115/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7116.png",YAM Tihoni HD [IL]
+#EXTINF:-1 tvg-id="yam-tihoni-hd-il" tvg-logo="http://only4.tv/ch/7116.png",YAM Tihoni HD [IL]
 http://cdn.only4.online/7116/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7119.png",Star Channel [IL]
+#EXTINF:-1 tvg-id="star-channel-il" tvg-logo="http://only4.tv/ch/7119.png",Star Channel [IL]
 http://cdn.only4.online/7119/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://only4.tv/ch/7120.png",ONE Doco HD [IL]
 http://cdn.only4.online/7120/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8386.png",Wiz TV [IL]
+#EXTINF:-1 tvg-id="wiz-tv-il" tvg-logo="http://only4.tv/ch/8386.png",Wiz TV [IL]
 http://cdn.only4.online/8386/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8387.png",Travel TV [IL]
+#EXTINF:-1 tvg-id="travel-tv-il" tvg-logo="http://only4.tv/ch/8387.png",Travel TV [IL]
 http://cdn.only4.online/8387/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8396.png",HOP [IL]
+#EXTINF:-1 tvg-id="hop-il" tvg-logo="http://only4.tv/ch/8396.png",HOP [IL]
 http://cdn.only4.online/8396/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8397.png",YAM Tihoni 2 [IL]
+#EXTINF:-1 tvg-id="yam-tihoni-2-il" tvg-logo="http://only4.tv/ch/8397.png",YAM Tihoni 2 [IL]
 http://cdn.only4.online/8397/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8398.png",VIVA Premium HD [IL]
+#EXTINF:-1 tvg-id="viva-premium-hd-il" tvg-logo="http://only4.tv/ch/8398.png",VIVA Premium HD [IL]
 http://cdn.only4.online/8398/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10489.png",VIVA [IL]
+#EXTINF:-1 tvg-id="viva-il" tvg-logo="http://only4.tv/ch/10489.png",VIVA [IL]
 http://cdn.only4.online/10489/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10490.png",VIVA Plus [IL]
+#EXTINF:-1 tvg-id="viva-plus-il" tvg-logo="http://only4.tv/ch/10490.png",VIVA Plus [IL]
 http://cdn.only4.online/10490/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10491.png",VIVA Vintage [IL]
+#EXTINF:-1 tvg-id="viva-vintage-il" tvg-logo="http://only4.tv/ch/10491.png",VIVA Vintage [IL]
 http://cdn.only4.online/10491/index.m3u8?token=
 #EXTINF:-1 tvg-id="food-network-eu" tvg-logo="http://only4.tv/ch/8399.png",Food Network [IL]
 http://cdn.only4.online/8399/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8400.png",Health Channel [IL]
+#EXTINF:-1 tvg-id="health-channel-il" tvg-logo="http://only4.tv/ch/8400.png",Health Channel [IL]
 http://cdn.only4.online/8400/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8401.png",Humor Channel [IL]
+#EXTINF:-1 tvg-id="humor-channel-il" tvg-logo="http://only4.tv/ch/8401.png",Humor Channel [IL]
 http://cdn.only4.online/8401/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/8406.png",HOT TV 8 [IL]
 http://cdn.only4.online/8406/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://only4.tv/ch/8407.png",HOT TV Cinema Family [IL]
 http://cdn.only4.online/8407/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8408.png",HOT HBO HD [IL]
+#EXTINF:-1 tvg-id="hot-hbo-hd-il" tvg-logo="http://only4.tv/ch/8408.png",HOT HBO HD [IL]
 http://cdn.only4.online/8408/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8409.png",HOT TV Bidur Israeli HD [IL]
+#EXTINF:-1 tvg-id="hot-tv-bidur-israeli-hd-il" tvg-logo="http://only4.tv/ch/8409.png",HOT TV Bidur Israeli HD [IL]
 http://cdn.only4.online/8409/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8410.png",HOT Comedy Central HD [IL]
+#EXTINF:-1 tvg-id="hot-comedy-central-hd-il" tvg-logo="http://only4.tv/ch/8410.png",HOT Comedy Central HD [IL]
 http://cdn.only4.online/8410/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8411.png",HOT TV 3 [IL]
+#EXTINF:-1 tvg-id="hot-tv-3-il" tvg-logo="http://only4.tv/ch/8411.png",HOT TV 3 [IL]
 http://cdn.only4.online/8411/index.m3u8?token=
 #EXTINF:-1 tvg-id="yes4" tvg-logo="http://only4.tv/ch/8413.png",YES+ Diamond HD [IL]
 http://cdn.only4.online/8413/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7118.png",Free TV Comedy HD [IL]
+#EXTINF:-1 tvg-id="free-tv-comedy-hd-il" tvg-logo="http://only4.tv/ch/7118.png",Free TV Comedy HD [IL]
 http://cdn.only4.online/7118/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10435.png",Cellcom Israel [IL]
+#EXTINF:-1 tvg-id="cellcom-israel-il" tvg-logo="http://only4.tv/ch/10435.png",Cellcom Israel [IL]
 http://cdn.only4.online/10435/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10436.png",Cellcom Movies Drama [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-drama-il" tvg-logo="http://only4.tv/ch/10436.png",Cellcom Movies Drama [IL]
 http://cdn.only4.online/10436/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10437.png",Cellcom Movies Kids [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-kids-il" tvg-logo="http://only4.tv/ch/10437.png",Cellcom Movies Kids [IL]
 http://cdn.only4.online/10437/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10438.png",Cellcom Movies Action [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-action-il" tvg-logo="http://only4.tv/ch/10438.png",Cellcom Movies Action [IL]
 http://cdn.only4.online/10438/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10439.png",Cellcom TV HBO HD [IL]
+#EXTINF:-1 tvg-id="cellcom-tv-hbo-hd-il" tvg-logo="http://only4.tv/ch/10439.png",Cellcom TV HBO HD [IL]
 http://cdn.only4.online/10439/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10440.png",Free TV Movies 10 Stars [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-10-stars-il" tvg-logo="http://only4.tv/ch/10440.png",Free TV Movies 10 Stars [IL]
 http://cdn.only4.online/10440/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10441.png",Ego Total [IL]
+#EXTINF:-1 tvg-id="ego-total-il" tvg-logo="http://only4.tv/ch/10441.png",Ego Total [IL]
 http://cdn.only4.online/10441/index.m3u8?token=
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="http://only4.tv/ch/10442.png",Eurosport 1 HD [IL]
 http://cdn.only4.online/10442/index.m3u8?token=
 #EXTINF:-1 tvg-id="eurosport2" tvg-logo="http://only4.tv/ch/10443.png",Eurosport 2 HD [IL]
 http://cdn.only4.online/10443/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10444.png",Free TV Drama HD [IL]
+#EXTINF:-1 tvg-id="free-tv-drama-hd-il" tvg-logo="http://only4.tv/ch/10444.png",Free TV Drama HD [IL]
 http://cdn.only4.online/10444/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10445.png",Free TV Lifestyle HD [IL]
+#EXTINF:-1 tvg-id="free-tv-lifestyle-hd-il" tvg-logo="http://only4.tv/ch/10445.png",Free TV Lifestyle HD [IL]
 http://cdn.only4.online/10445/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10446.png",Free TV Cooking HD [IL]
+#EXTINF:-1 tvg-id="free-tv-cooking-hd-il" tvg-logo="http://only4.tv/ch/10446.png",Free TV Cooking HD [IL]
 http://cdn.only4.online/10446/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10447.png",Free TV Doco HD [IL]
+#EXTINF:-1 tvg-id="free-tv-doco-hd-il" tvg-logo="http://only4.tv/ch/10447.png",Free TV Doco HD [IL]
 http://cdn.only4.online/10447/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10448.png",Free TV Teva HD [IL]
+#EXTINF:-1 tvg-id="free-tv-teva-hd-il" tvg-logo="http://only4.tv/ch/10448.png",Free TV Teva HD [IL]
 http://cdn.only4.online/10448/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10449.png",Free TV Karaoke HD [IL]
+#EXTINF:-1 tvg-id="free-tv-karaoke-hd-il" tvg-logo="http://only4.tv/ch/10449.png",Free TV Karaoke HD [IL]
 http://cdn.only4.online/10449/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10450.png",FreeTv Сomedy 2 HD [IL]
+#EXTINF:-1 tvg-id="freetv-сomedy-2-hd-il" tvg-logo="http://only4.tv/ch/10450.png",FreeTv Сomedy 2 HD [IL]
 http://cdn.only4.online/10450/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10451.png",Free TV Feel Good HD [IL]
+#EXTINF:-1 tvg-id="free-tv-feel-good-hd-il" tvg-logo="http://only4.tv/ch/10451.png",Free TV Feel Good HD [IL]
 http://cdn.only4.online/10451/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10452.png",Free TV Series Global HD [IL]
+#EXTINF:-1 tvg-id="free-tv-series-global-hd-il" tvg-logo="http://only4.tv/ch/10452.png",Free TV Series Global HD [IL]
 http://cdn.only4.online/10452/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10453.png",Free TV Movies Action HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-action-hd-il" tvg-logo="http://only4.tv/ch/10453.png",Free TV Movies Action HD [IL]
 http://cdn.only4.online/10453/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10454.png",Free TV Movies Comedy HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-comedy-hd-il" tvg-logo="http://only4.tv/ch/10454.png",Free TV Movies Comedy HD [IL]
 http://cdn.only4.online/10454/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10455.png",Free TV Movies Drama HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-drama-hd-il" tvg-logo="http://only4.tv/ch/10455.png",Free TV Movies Drama HD [IL]
 http://cdn.only4.online/10455/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10456.png",Free TV Movies Horror HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-horror-hd-il" tvg-logo="http://only4.tv/ch/10456.png",Free TV Movies Horror HD [IL]
 http://cdn.only4.online/10456/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10457.png",Free TV Movies Romantic HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-romantic-hd-il" tvg-logo="http://only4.tv/ch/10457.png",Free TV Movies Romantic HD [IL]
 http://cdn.only4.online/10457/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10458.png",Free TV Israeli Movies HD [IL]
+#EXTINF:-1 tvg-id="free-tv-israeli-movies-hd-il" tvg-logo="http://only4.tv/ch/10458.png",Free TV Israeli Movies HD [IL]
 http://cdn.only4.online/10458/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10459.png",Free TV Movies Family HD [IL]
+#EXTINF:-1 tvg-id="free-tv-movies-family-hd-il" tvg-logo="http://only4.tv/ch/10459.png",Free TV Movies Family HD [IL]
 http://cdn.only4.online/10459/index.m3u8?token=
 #EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="http://only4.tv/ch/10471.png",Animal Planet HD [IL]
 http://cdn.only4.online/10471/index.m3u8?token=
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="http://only4.tv/ch/10472.png",Bollywood HD [IL]
 http://cdn.only4.online/10472/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10474.png",Erez Nehederet HD [IL]
+#EXTINF:-1 tvg-id="erez-nehederet-hd-il" tvg-logo="http://only4.tv/ch/10474.png",Erez Nehederet HD [IL]
 http://cdn.only4.online/10474/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10475.png",Foody HD [IL]
+#EXTINF:-1 tvg-id="foody-hd-il" tvg-logo="http://only4.tv/ch/10475.png",Foody HD [IL]
 http://cdn.only4.online/10475/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10476.png",Fomo TV [IL]
+#EXTINF:-1 tvg-id="fomo-tv-il" tvg-logo="http://only4.tv/ch/10476.png",Fomo TV [IL]
 http://cdn.only4.online/10476/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="http://only4.tv/ch/10477.png",HOP Israeli Childhood [IL]
 http://cdn.only4.online/10477/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10482.png",Savri HD [IL]
+#EXTINF:-1 tvg-id="savri-hd-il" tvg-logo="http://only4.tv/ch/10482.png",Savri HD [IL]
 http://cdn.only4.online/10482/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10483.png",Spanish Drama 1 HD [IL]
+#EXTINF:-1 tvg-id="spanish-drama-1-hd-il" tvg-logo="http://only4.tv/ch/10483.png",Spanish Drama 1 HD [IL]
 http://cdn.only4.online/10483/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10484.png",Turkish Drama Plus [IL]
+#EXTINF:-1 tvg-id="turkish-drama-plus-il" tvg-logo="http://only4.tv/ch/10484.png",Turkish Drama Plus [IL]
 http://cdn.only4.online/10484/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10485.png",Turkish Drama 2 [IL]
+#EXTINF:-1 tvg-id="turkish-drama-2-il" tvg-logo="http://only4.tv/ch/10485.png",Turkish Drama 2 [IL]
 http://cdn.only4.online/10485/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10486.png",Turkish Drama 3 [IL]
+#EXTINF:-1 tvg-id="turkish-drama-3-il" tvg-logo="http://only4.tv/ch/10486.png",Turkish Drama 3 [IL]
 http://cdn.only4.online/10486/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="http://only4.tv/ch/10487.png",TeenNick [IL]
 http://cdn.only4.online/10487/index.m3u8?token=
