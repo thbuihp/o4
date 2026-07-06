@@ -1753,7 +1753,7 @@ http://cdn.only4.online/10954/index.m3u8?token=
 http://cdn.only4.online/10955/index.m3u8?token=
 #EXTINF:-1 tvg-id="newrussian" tvg-logo="http://only4.tv/ch/11184.png",Новый Русский HD
 http://cdn.only4.online/11184/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11329.png",DTR Zona 1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11329.png",Выжить любой Ценой
 http://cdn.only4.online/11329/index.m3u8?token=
 #EXTINF:-1 tvg-id="goldline-naked" tvg-logo="http://only4.tv/ch/10286.png",GL Naked and Funny (Голые и cмешные)
 http://cdn.only4.online/10286/index.m3u8?token=
@@ -1795,8 +1795,6 @@ http://cdn.only4.online/7640/index.m3u8?token=
 http://cdn.only4.online/8252/index.m3u8?token=
 #EXTINF:-1 tvg-id="yosso-4k-hdr" tvg-logo="http://only4.tv/ch/9212.png",Yosso TV 4K HDR
 http://cdn.only4.online/9212/index.m3u8?token=
-#EXTINF:-1 tvg-id="nashe-music-hd" tvg-logo="http://only4.tv/ch/7743.png",НАШЕ Music UHD
-http://cdn.only4.online/7743/index.m3u8?token=
 #EXTINF:-1 tvg-id="glazami-turista-4k" tvg-logo="http://only4.tv/ch/7752.png",Глазами Туриста UHD
 http://cdn.only4.online/7752/index.m3u8?token=
 #EXTINF:-1 tvg-id="myzen-tv" tvg-logo="http://only4.tv/ch/7942.png",MyZen TV 4K
@@ -3899,8 +3897,6 @@ http://cdn.only4.online/7756/index.m3u8?token=
 http://cdn.only4.online/5573/index.m3u8?token=
 #EXTINF:-1 tvg-id="oboz-tv" tvg-logo="http://only4.tv/ch/8022.png",Obozrevatel ТВ HD
 http://cdn.only4.online/8022/index.m3u8?token=
-#EXTINF:-1 tvg-id="nashe-music-hd" tvg-logo="http://only4.tv/ch/8027.png",НАШЕ Music HD
-http://cdn.only4.online/8027/index.m3u8?token=
 #EXTINF:-1 tvg-id="ck1-ua" tvg-logo="http://only4.tv/ch/8122.png",СК1 (Житомир)
 http://cdn.only4.online/8122/index.m3u8?token=
 #EXTINF:-1 tvg-id="sferatv" tvg-logo="http://only4.tv/ch/8024.png",Сфера ТВ HD (Рівненщина)
