@@ -2655,7 +2655,7 @@ http://cdn.only4.online/10988/index.m3u8?token=
 http://cdn.only4.online/11039/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11040.png",Live Sport 2 HD
 http://cdn.only4.online/11040/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11041.png",DAZN Combat HD
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11041.png",DAZN 2 PT
 http://cdn.only4.online/11041/index.m3u8?token=
 #EXTINF:-1 tvg-id="prime-fight" tvg-logo="http://only4.tv/ch/11050.png",Prime Fight HD
 http://cdn.only4.online/11050/index.m3u8?token=
@@ -2663,7 +2663,7 @@ http://cdn.only4.online/11050/index.m3u8?token=
 http://cdn.only4.online/11138/index.m3u8?token=
 #EXTINF:-1 tvg-id="maincast-sport" tvg-logo="http://only4.tv/ch/11152.png",Maincast Sport HD
 http://cdn.only4.online/11152/index.m3u8?token=
-#EXTINF:-1 tvg-id="daznbar1" tvg-logo="http://only4.tv/ch/11153.png",DAZN TV HD
+#EXTINF:-1 tvg-id="dazn-rise-de" tvg-logo="http://only4.tv/ch/11153.png",DAZN Rise HD
 http://cdn.only4.online/11153/index.m3u8?token=
 #EXTINF:-1 tvg-id="voleybol" tvg-logo="http://only4.tv/ch/11175.png",Волейбол ТВ
 http://cdn.only4.online/11175/index.m3u8?token=
@@ -3325,9 +3325,9 @@ http://cdn.only4.online/9831/index.m3u8?token=
 http://cdn.only4.online/9832/index.m3u8?token=
 #EXTINF:-1 tvg-id="jk_FinF" tvg-logo="http://only4.tv/ch/9960.png",Infiniti: Между Молотом и Наковальней
 http://cdn.only4.online/9960/index.m3u8?token=
-#EXTINF:-1 tvg-id="inf_Survival" tvg-logo="http://only4.tv/ch/9961.png",Infiniti: Борьба за Жизнь
+#EXTINF:-1 tvg-id="inf_star_lombard" tvg-logo="http://only4.tv/ch/9961.png",Infiniti: Звёзды Ломбарда
 http://cdn.only4.online/9961/index.m3u8?token=
-#EXTINF:-1 tvg-id="inf_animov" tvg-logo="http://only4.tv/ch/9962.png",Infiniti: Люди и Животные
+#EXTINF:-1 tvg-id="inf_work" tvg-logo="http://only4.tv/ch/9962.png",Infiniti: Как это Работает
 http://cdn.only4.online/9962/index.m3u8?token=
 #EXTINF:-1 tvg-id="6sotok" tvg-logo="http://only4.tv/ch/10687.png",6 Соток
 http://cdn.only4.online/10687/index.m3u8?token=
