@@ -3175,7 +3175,7 @@ http://cdn.only4.online/8064/index.m3u8?token=
 http://cdn.only4.online/8234/index.m3u8?token=
 #EXTINF:-1 tvg-id="SKYHIGHARCHIVEFHD" tvg-logo="http://only4.tv/ch/11076.png",SKY High Archive FHD
 http://cdn.only4.online/11076/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8019.png",Каббала ТВ
+#EXTINF:-1 tvg-id="epic" tvg-logo="http://only4.tv/ch/8019.png",Ep!c
 http://cdn.only4.online/8019/index.m3u8?token=
 #EXTINF:-1 tvg-id="live-planet-mm" tvg-logo="http://only4.tv/ch/7124.png",MM Live Planet HD
 http://cdn.only4.online/7124/index.m3u8?token=
