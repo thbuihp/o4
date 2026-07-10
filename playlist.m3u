@@ -4891,14 +4891,10 @@ http://cdn.only4.online/5552/index.m3u8?token=
 http://cdn.only4.online/5553/index.m3u8?token=
 #EXTINF:-1 tvg-id="uzbekistan24" tvg-logo="http://only4.tv/ch/5554.png",Ozbekiston 24 [UZ]
 http://cdn.only4.online/5554/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6925.png",Muloqot TV [UZ]
-http://cdn.only4.online/6925/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7690.png",Makon TV [UZ]
 http://cdn.only4.online/7690/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8354.png",Milliy TV [UZ]
 http://cdn.only4.online/8354/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8356.png",UzReport TV [UZ]
-http://cdn.only4.online/8356/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8357.png",Ishonch TV [UZ]
 http://cdn.only4.online/8357/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8359.png",My 5 TV HD [UZ]
