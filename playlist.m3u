@@ -7475,10 +7475,6 @@ http://cdn.only4.online/11575/index.m3u8?token=
 http://cdn.only4.online/11574/index.m3u8?token=
 #EXTINF:-1 tvg-id="thatstv.uk" tvg-logo="http://only4.tv/ch/11573.png",That's TV 2 [UK]
 http://cdn.only4.online/11573/index.m3u8?token=
-#EXTINF:-1 tvg-id="togethertv.uk" tvg-logo="http://only4.tv/ch/11572.png",Together [UK]
-http://cdn.only4.online/11572/index.m3u8?token=
-#EXTINF:-1 tvg-id="blaze.uk" tvg-logo="http://only4.tv/ch/11571.png",Blaze [UK]
-http://cdn.only4.online/11571/index.m3u8?token=
 #EXTINF:-1 tvg-id="legend.uk" tvg-logo="http://only4.tv/ch/11570.png",Legend [UK]
 http://cdn.only4.online/11570/index.m3u8?token=
 #EXTINF:-1 tvg-id="challenge.uk" tvg-logo="http://only4.tv/ch/11568.png",Challenge [UK]
