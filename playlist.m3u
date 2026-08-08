@@ -331,7 +331,7 @@ http://cdn.only4.online/6331/index.m3u8?token=
 http://cdn.only4.online/116/index.m3u8?token=
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="http://only4.tv/ch/722.png",Любимое Кино HD
 http://cdn.only4.online/722/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10673.png",Наше Улюблене Кіно (UА)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10673.png",KinoGrande HD
 http://cdn.only4.online/10673/index.m3u8?token=
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="http://only4.tv/ch/1115.png",Комедия (ВГТРК)
 http://cdn.only4.online/1115/index.m3u8?token=
