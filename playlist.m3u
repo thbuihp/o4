@@ -4937,6 +4937,8 @@ http://cdn.only4.online/10396/index.m3u8?token=
 http://cdn.only4.online/10389/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10392.png",TTV music [UZ]
 http://cdn.only4.online/10392/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10394.png",Futbol TV [UZ]
+http://cdn.only4.online/10394/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10395.png",Gold TV [UZ]
 http://cdn.only4.online/10395/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11109.png",Солнечный ТВ HD [UZ]
