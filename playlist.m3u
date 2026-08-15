@@ -75,7 +75,7 @@ http://cdn.only4.online/1311/index.m3u8?token=
 http://cdn.only4.online/410/index.m3u8?token=
 #EXTINF:-1 tvg-id="zvezda-pl4" tvg-logo="http://only4.tv/ch/7558.png",Звезда (+4)
 http://cdn.only4.online/7558/index.m3u8?token=
-#EXTINF:-1 tvg-id="zvezda-pl6" tvg-logo="http://only4.tv/ch/7559.png",Звезда (+6)
+#EXTINF:-1 tvg-id="zvezda-pl7" tvg-logo="http://only4.tv/ch/7559.png",Звезда (+7)
 http://cdn.only4.online/7559/index.m3u8?token=
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="http://only4.tv/ch/6561.png",Звезда Плюс
 http://cdn.only4.online/6561/index.m3u8?token=
