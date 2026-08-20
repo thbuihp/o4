@@ -1415,6 +1415,8 @@ http://cdn.only4.online/11208/index.m3u8?token=
 http://cdn.only4.online/11328/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-western" tvg-logo="http://only4.tv/ch/11435.png",Velilla TV Вестерн HD
 http://cdn.only4.online/11435/index.m3u8?token=
+#EXTINF:-1 tvg-id="balabol" tvg-logo="http://only4.tv/ch/11699.png",Velilla TV Балабол HD
+http://cdn.only4.online/11699/index.m3u8?token=
 #EXTINF:-1 tvg-id="LIBERTYDC" tvg-logo="http://only4.tv/ch/9458.png",LIBERTY DC
 http://cdn.only4.online/9458/index.m3u8?token=
 #EXTINF:-1 tvg-id="LIBERTYKOROTKOMETRAZHNOYEFHD" tvg-logo="http://only4.tv/ch/9459.png",LIBERTY Короткометражки FHD
@@ -2087,6 +2089,8 @@ http://cdn.only4.online/9666/index.m3u8?token=
 http://cdn.only4.online/9868/index.m3u8?token=
 #EXTINF:-1 tvg-id="velilla-xfiles4k" tvg-logo="http://only4.tv/ch/11672.png",Velilla TV The X - Files 4K
 http://cdn.only4.online/11672/index.m3u8?token=
+#EXTINF:-1 tvg-id="velillatvcattv" tvg-logo="http://only4.tv/ch/11698.png",Velilla TV CatTV 4K
+http://cdn.only4.online/11698/index.m3u8?token=
 #EXTINF:-1 tvg-id="eurosport-4k" tvg-logo="http://only4.tv/ch/10038.png",EuroSport 4K
 http://cdn.only4.online/10038/index.m3u8?token=
 #EXTINF:-1 tvg-id="diema-sport-2" tvg-logo="http://only4.tv/ch/10684.png",Diema Sport 2 4K
@@ -4909,8 +4913,6 @@ http://cdn.only4.online/8984/index.m3u8?token=
 http://cdn.only4.online/8985/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8986.png",Surxondaryo MTRK [UZ]
 http://cdn.only4.online/8986/index.m3u8?token=
-#EXTINF:-1 tvg-id="kinoteatr-uz" tvg-logo="http://only4.tv/ch/10378.png",KinoTeatr HD [UZ]
-http://cdn.only4.online/10378/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10379.png",Biz TV HD [UZ]
 http://cdn.only4.online/10379/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10380.png",Namangan MTRK [UZ]
@@ -4927,8 +4929,6 @@ http://cdn.only4.online/10396/index.m3u8?token=
 http://cdn.only4.online/10392/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10394.png",Futbol TV [UZ]
 http://cdn.only4.online/10394/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10395.png",Gold TV [UZ]
-http://cdn.only4.online/10395/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11109.png",Солнечный ТВ HD [UZ]
 http://cdn.only4.online/11109/index.m3u8?token=
 #EXTINF:-1 tvg-id="h1-am" tvg-logo="http://only4.tv/ch/6476.png",H1 [AM]
