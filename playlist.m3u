@@ -4899,6 +4899,8 @@ http://cdn.only4.online/7690/index.m3u8?token=
 http://cdn.only4.online/8354/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8357.png",Ishonch TV [UZ]
 http://cdn.only4.online/8357/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8359.png",My 5 TV HD [UZ]
+http://cdn.only4.online/8359/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8492.png",Zor TV [UZ]
 http://cdn.only4.online/8492/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="http://only4.tv/ch/8980.png",Aqlvoy [UZ]
