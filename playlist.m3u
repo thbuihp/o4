@@ -2523,8 +2523,6 @@ http://cdn.only4.online/9815/index.m3u8?token=
 http://cdn.only4.online/9816/index.m3u8?token=
 #EXTINF:-1 tvg-id="dazn-fast-de" tvg-logo="http://only4.tv/ch/9817.png",DAZN Fast HD
 http://cdn.only4.online/9817/index.m3u8?token=
-#EXTINF:-1 tvg-id="dazn-laliga-es" tvg-logo="http://only4.tv/ch/10115.png",DAZN LaLiga HD
-http://cdn.only4.online/10115/index.m3u8?token=
 #EXTINF:-1 tvg-id="prima-sport-1" tvg-logo="http://only4.tv/ch/9822.png",Prima Sport 1 HD
 http://cdn.only4.online/9822/index.m3u8?token=
 #EXTINF:-1 tvg-id="prima-sport-2" tvg-logo="http://only4.tv/ch/9823.png",Prima Sport 2 HD
@@ -3031,7 +3029,7 @@ http://cdn.only4.online/0145/index.m3u8?token=
 http://cdn.only4.online/0144/index.m3u8?token=
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="http://only4.tv/ch/0168.png",Моя Планета HD
 http://cdn.only4.online/0168/index.m3u8?token=
-#EXTINF:-1 tvg-id="rtg-tv" tvg-logo="http://only4.tv/ch/0125.png",RTG TV HD
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="http://only4.tv/ch/0125.png",RTG TV HD
 http://cdn.only4.online/0125/index.m3u8?token=
 #EXTINF:-1 tvg-id="rtg-tv" tvg-logo="http://only4.tv/ch/9755.png",RTG TV
 http://cdn.only4.online/9755/index.m3u8?token=
