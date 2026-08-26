@@ -4919,7 +4919,7 @@ http://cdn.only4.online/10379/index.m3u8?token=
 http://cdn.only4.online/10380/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10381.png",Biz Music HD [UZ]
 http://cdn.only4.online/10381/index.m3u8?token=
-#EXTINF:-1 tvg-id="ftv-uz" tvg-logo="http://only4.tv/ch/10382.png",S Music [UZ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10382.png",Sport [UZ]
 http://cdn.only4.online/10382/index.m3u8?token=
 #EXTINF:-1 tvg-id="setanta1-uz" tvg-logo="http://only4.tv/ch/10387.png",Setanta Sports 1 HD [UZ]
 http://cdn.only4.online/10387/index.m3u8?token=
@@ -5641,7 +5641,7 @@ http://cdn.only4.online/6886/index.m3u8?token=
 http://cdn.only4.online/6889/index.m3u8?token=
 #EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="http://only4.tv/ch/6899.png",FX HD [TR]
 http://cdn.only4.online/6899/index.m3u8?token=
-#EXTINF:-1 tvg-id="sportstv-tr" tvg-logo="http://only4.tv/ch/6900.png",Sports TV [TR]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6900.png",NT SPOR [TR]
 http://cdn.only4.online/6900/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6951.png",beIN Movies Action HD [TR]
 http://cdn.only4.online/6951/index.m3u8?token=
@@ -5869,7 +5869,7 @@ http://cdn.only4.online/10542/index.m3u8?token=
 http://cdn.only4.online/10543/index.m3u8?token=
 #EXTINF:-1 tvg-id="tivibu-spor-4" tvg-logo="http://only4.tv/ch/10544.png",Tivibu Spor 4 HD [TR]
 http://cdn.only4.online/10544/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11037.png",NOW Play [TR]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11037.png",Cine 5 TV [TR]
 http://cdn.only4.online/11037/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11095.png",Tabii TV HD [TR]
 http://cdn.only4.online/11095/index.m3u8?token=
@@ -6409,9 +6409,9 @@ http://cdn.only4.online/11094/index.m3u8?token=
 http://cdn.only4.online/11097/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11101.png",Alvin TV [AZ]
 http://cdn.only4.online/11101/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11104.png",Dunya TV [AZ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11104.png",STV Azerbaijan [AZ]
 http://cdn.only4.online/11104/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/11678.png",MAHNI TV
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11678.png",Diginet Cinema [AZ]
 http://cdn.only4.online/11678/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8375.png",Азия ТВ [KG]
 http://cdn.only4.online/8375/index.m3u8?token=
