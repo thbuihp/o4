@@ -2103,8 +2103,6 @@ http://cdn.only4.online/10725/index.m3u8?token=
 http://cdn.only4.online/11476/index.m3u8?token=
 #EXTINF:-1 tvg-id="btsportultimate.uk" tvg-logo="http://only4.tv/ch/11583.png",TNT Sports Ultimate
 http://cdn.only4.online/11583/index.m3u8?token=
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="http://only4.tv/ch/11585.png",Astro Sports UHD
-http://cdn.only4.online/11585/index.m3u8?token=
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://only4.tv/ch/14115.png",Матч! Футбол 1 HD (orig)
 http://cdn.only4.online/14115/index.m3u8?token=
 #EXTINF:-1 tvg-id="match-football1" tvg-logo="http://only4.tv/ch/14105.png",Матч! Футбол 1 HD
@@ -7289,84 +7287,22 @@ http://cdn.only4.online/11490/index.m3u8?token=
 http://cdn.only4.online/11494/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11495.png",CineThronix [RO]
 http://cdn.only4.online/11495/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11010.png",TV Bakhoristan [TJ]
-http://cdn.only4.online/11010/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11012.png",Jahonnamo TV [TJ]
 http://cdn.only4.online/11012/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11013.png",TV Safina [TJ]
 http://cdn.only4.online/11013/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11014.png",TV Tojikiston [TJ]
-http://cdn.only4.online/11014/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11015.png",Душанбе HD [TJ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11015.png",Tajik Film [TJ]
 http://cdn.only4.online/11015/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11016.png",Илм ва Табиат [TJ]
-http://cdn.only4.online/11016/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11017.png",Sinamo TV [TJ]
-http://cdn.only4.online/11017/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11018.png",ТВ Сугд [TJ]
-http://cdn.only4.online/11018/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11019.png",TV Sayohi [TJ]
-http://cdn.only4.online/11019/index.m3u8?token=
-#EXTINF:-1 tvg-id="varzish-sport" tvg-logo="http://only4.tv/ch/11020.png",ТВ Варзиш [TJ]
-http://cdn.only4.online/11020/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11023.png",Tojikiston-Музыка [TJ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11023.png",Tajik Music [TJ]
 http://cdn.only4.online/11023/index.m3u8?token=
 #EXTINF:-1 tvg-id="football-tj" tvg-logo="http://only4.tv/ch/11024.png",Футбол HD [TJ]
 http://cdn.only4.online/11024/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11025.png",ТВ Шахнавоз [TJ]
-http://cdn.only4.online/11025/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11108.png",Pamir TV HD [TJ]
-http://cdn.only4.online/11108/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-507-au" tvg-logo="http://only4.tv/ch/11669.png",FOX Sports 507 HD [UK]
-http://cdn.only4.online/11669/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-506-au" tvg-logo="http://only4.tv/ch/11668.png",FOX Sports 506 HD [UK]
-http://cdn.only4.online/11668/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-505-au" tvg-logo="http://only4.tv/ch/11667.png",FOX Sports 505 HD [UK]
-http://cdn.only4.online/11667/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-504-au" tvg-logo="http://only4.tv/ch/11666.png",FOX Sports 504 HD [UK]
-http://cdn.only4.online/11666/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-503-au" tvg-logo="http://only4.tv/ch/11665.png",FOX Sports 503 HD [UK]
-http://cdn.only4.online/11665/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-502-au" tvg-logo="http://only4.tv/ch/11664.png",FOX Sports 502 HD [UK]
-http://cdn.only4.online/11664/index.m3u8?token=
-#EXTINF:-1 tvg-id="fox-sports-501-au" tvg-logo="http://only4.tv/ch/11663.png",FOX Sports 501 HD [UK]
-http://cdn.only4.online/11663/index.m3u8?token=
 #EXTINF:-1 tvg-id="sky-sports-laliga-mx" tvg-logo="http://only4.tv/ch/11662.png",LA Liga HD [UK]
 http://cdn.only4.online/11662/index.m3u8?token=
 #EXTINF:-1 tvg-id="premier-sports-2-uk" tvg-logo="http://only4.tv/ch/11661.png",Premier Sports 2 HD [UK]
 http://cdn.only4.online/11661/index.m3u8?token=
 #EXTINF:-1 tvg-id="premier-sports-1-uk" tvg-logo="http://only4.tv/ch/11660.png",Premier Sports 1 HD [UK]
 http://cdn.only4.online/11660/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-sports5-sg" tvg-logo="http://only4.tv/ch/11659.png",Hub Sports 5 HD [UK]
-http://cdn.only4.online/11659/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-sports4-sg" tvg-logo="http://only4.tv/ch/11658.png",Hub Sports 4 HD [UK]
-http://cdn.only4.online/11658/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-sports3-sg" tvg-logo="http://only4.tv/ch/11657.png",Hub Sports 3 HD [UK]
-http://cdn.only4.online/11657/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-sports2-sg" tvg-logo="http://only4.tv/ch/11656.png",Hub Sports 2 HD [UK]
-http://cdn.only4.online/11656/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-sports1-sg" tvg-logo="http://only4.tv/ch/11655.png",Hub Sports 1 HD [UK]
-http://cdn.only4.online/11655/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere7-sg" tvg-logo="http://only4.tv/ch/11654.png",Hub Premier 7 HD [UK]
-http://cdn.only4.online/11654/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere6-sg" tvg-logo="http://only4.tv/ch/11653.png",Hub Premier 6 HD [UK]
-http://cdn.only4.online/11653/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere5-sg" tvg-logo="http://only4.tv/ch/11652.png",Hub Premier 5 HD [UK]
-http://cdn.only4.online/11652/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere4-sg" tvg-logo="http://only4.tv/ch/11651.png",Hub Premier 4 HD [UK]
-http://cdn.only4.online/11651/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere3-sg" tvg-logo="http://only4.tv/ch/11650.png",Hub Premier 3 HD [UK]
-http://cdn.only4.online/11650/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere2-sg" tvg-logo="http://only4.tv/ch/11649.png",Hub Premier 2 HD [UK]
-http://cdn.only4.online/11649/index.m3u8?token=
-#EXTINF:-1 tvg-id="hub-premiere1-sg" tvg-logo="http://only4.tv/ch/11648.png",Hub Premier 1 HD [UK]
-http://cdn.only4.online/11648/index.m3u8?token=
-#EXTINF:-1 tvg-id="now-golf-3-hk" tvg-logo="http://only4.tv/ch/11647.png",Now Golf 3 HD [UK]
-http://cdn.only4.online/11647/index.m3u8?token=
-#EXTINF:-1 tvg-id="now-golf-2-hk" tvg-logo="http://only4.tv/ch/11646.png",Now Golf 2 HD [UK]
-http://cdn.only4.online/11646/index.m3u8?token=
-#EXTINF:-1 tvg-id="now-sports-plus" tvg-logo="http://only4.tv/ch/11645.png",now Sports Plus HD [UK]
-http://cdn.only4.online/11645/index.m3u8?token=
 #EXTINF:-1 tvg-id="now-sports-7" tvg-logo="http://only4.tv/ch/11644.png",now Sports 7 HD [UK]
 http://cdn.only4.online/11644/index.m3u8?token=
 #EXTINF:-1 tvg-id="now-sports-6" tvg-logo="http://only4.tv/ch/11643.png",now Sports 6 HD [UK]
@@ -7383,18 +7319,8 @@ http://cdn.only4.online/11639/index.m3u8?token=
 http://cdn.only4.online/11638/index.m3u8?token=
 #EXTINF:-1 tvg-id="now-sports-prime-hk" tvg-logo="http://only4.tv/ch/11637.png",now Sports Prime HD [UK]
 http://cdn.only4.online/11637/index.m3u8?token=
-#EXTINF:-1 tvg-id="now-sports-pl-hk" tvg-logo="http://only4.tv/ch/11636.png",now Sports PL1 HD [UK]
-http://cdn.only4.online/11636/index.m3u8?token=
-#EXTINF:-1 tvg-id="now-sports-apl" tvg-logo="http://only4.tv/ch/11635.png",now Sports TV HD [UK]
-http://cdn.only4.online/11635/index.m3u8?token=
-#EXTINF:-1 tvg-id="w-sport" tvg-logo="http://only4.tv/ch/11634.png",W-Sport HD [UK]
-http://cdn.only4.online/11634/index.m3u8?token=
 #EXTINF:-1 tvg-id="cricbuzz" tvg-logo="http://only4.tv/ch/11631.png",CricBuzz HD [UK]
 http://cdn.only4.online/11631/index.m3u8?token=
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="http://only4.tv/ch/11630.png",Astro Arena 2 HD [UK]
-http://cdn.only4.online/11630/index.m3u8?token=
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="http://only4.tv/ch/11629.png",Astro Arena HD [UK]
-http://cdn.only4.online/11629/index.m3u8?token=
 #EXTINF:-1 tvg-id="racinguk.uk" tvg-logo="http://only4.tv/ch/11624.png",Racing TV HD [UK]
 http://cdn.only4.online/11624/index.m3u8?token=
 #EXTINF:-1 tvg-id="mutv.uk" tvg-logo="http://only4.tv/ch/11623.png",MUTV HD [UK]
