@@ -21,8 +21,6 @@ http://cdn.only4.online/1116/index.m3u8?token=
 http://cdn.only4.online/0355/index.m3u8?token=
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="http://only4.tv/ch/5521.png",Россия 1 (+6)
 http://cdn.only4.online/5521/index.m3u8?token=
-#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="http://only4.tv/ch/7550.png",Россия 1 (+8)
-http://cdn.only4.online/7550/index.m3u8?token=
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://only4.tv/ch/2211.png",НТВ HD (orig)
 http://cdn.only4.online/2211/index.m3u8?token=
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://only4.tv/ch/2201.png",НТВ HD
@@ -2099,7 +2097,7 @@ http://cdn.only4.online/10684/index.m3u8?token=
 http://cdn.only4.online/10685/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10725.png",RAI 4K
 http://cdn.only4.online/10725/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11476.png",Prima 4K
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11476.png",Auto Motor Sport UHD
 http://cdn.only4.online/11476/index.m3u8?token=
 #EXTINF:-1 tvg-id="btsportultimate.uk" tvg-logo="http://only4.tv/ch/11583.png",TNT Sports Ultimate
 http://cdn.only4.online/11583/index.m3u8?token=
@@ -6365,6 +6363,8 @@ http://cdn.only4.online/7623/index.m3u8?token=
 http://cdn.only4.online/7624/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7625.png",EL TV [AZ]
 http://cdn.only4.online/7625/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7626.png",TTV [AZ]
+http://cdn.only4.online/7626/index.m3u8?token=
 #EXTINF:-1 tvg-id="ictimai-tv" tvg-logo="http://only4.tv/ch/7627.png",Ictimai TV [AZ]
 http://cdn.only4.online/7627/index.m3u8?token=
 #EXTINF:-1 tvg-id="medeniyyet" tvg-logo="http://only4.tv/ch/7628.png",Medeniyyet TV [AZ]
