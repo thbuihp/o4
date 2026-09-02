@@ -3317,9 +3317,9 @@ http://cdn.only4.online/9674/index.m3u8?token=
 http://cdn.only4.online/9810/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlayBiografii.tv" tvg-logo="http://only4.tv/ch/9811.png",TVPlay Биографии
 http://cdn.only4.online/9811/index.m3u8?token=
-#EXTINF:-1 tvg-id="raz1" tvg-logo="http://only4.tv/ch/9831.png",RAZ 1 HD
+#EXTINF:-1 tvg-id="raz1" tvg-logo="http://only4.tv/ch/9831.png",Raz 1 HD
 http://cdn.only4.online/9831/index.m3u8?token=
-#EXTINF:-1 tvg-id="raz2" tvg-logo="http://only4.tv/ch/9832.png",RAZ 2 HD
+#EXTINF:-1 tvg-id="raz2" tvg-logo="http://only4.tv/ch/9832.png",Raz 2 HD
 http://cdn.only4.online/9832/index.m3u8?token=
 #EXTINF:-1 tvg-id="jk_FinF" tvg-logo="http://only4.tv/ch/9960.png",Infiniti: Между Молотом и Наковальней
 http://cdn.only4.online/9960/index.m3u8?token=
@@ -3823,9 +3823,9 @@ http://cdn.only4.online/6145/index.m3u8?token=
 http://cdn.only4.online/7698/index.m3u8?token=
 #EXTINF:-1 tvg-id="unian-tv" tvg-logo="http://only4.tv/ch/6160.png",Уніан Серіал
 http://cdn.only4.online/6160/index.m3u8?token=
-#EXTINF:-1 tvg-id="kvartal-tv" tvg-logo="http://only4.tv/ch/6180.png",Квартал ТВ
+#EXTINF:-1 tvg-id="kvartal-tv" tvg-logo="http://only4.tv/ch/6180.png",Raz 3 HD
 http://cdn.only4.online/6180/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10669.png",Квартал ТВ Int.
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10669.png",Raz 3 Int.
 http://cdn.only4.online/10669/index.m3u8?token=
 #EXTINF:-1 tvg-id="1auto" tvg-logo="http://only4.tv/ch/10784.png",Перший Автомобільний HD
 http://cdn.only4.online/10784/index.m3u8?token=
@@ -5571,9 +5571,9 @@ http://cdn.only4.online/8236/index.m3u8?token=
 http://cdn.only4.online/8237/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8238.png",RTL Gold [HU]
 http://cdn.only4.online/8238/index.m3u8?token=
-#EXTINF:-1 tvg-id="arena-sport-1-sk" tvg-logo="http://only4.tv/ch/8507.png",Arena Sport 1 [HU]
+#EXTINF:-1 tvg-id="arena-sport-1-sk" tvg-logo="http://only4.tv/ch/8507.png",Kanal 1 Sport [HU]
 http://cdn.only4.online/8507/index.m3u8?token=
-#EXTINF:-1 tvg-id="arena-sport-2-sk" tvg-logo="http://only4.tv/ch/8508.png",Arena Sport 2 [HU]
+#EXTINF:-1 tvg-id="arena-sport-2-sk" tvg-logo="http://only4.tv/ch/8508.png",Kanal 1 Xtra [HU]
 http://cdn.only4.online/8508/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9265.png",ATV [HU]
 http://cdn.only4.online/9265/index.m3u8?token=
