@@ -6423,6 +6423,8 @@ http://cdn.only4.online/11089/index.m3u8?token=
 http://cdn.only4.online/11090/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11091.png",Mahni TV [AZ]
 http://cdn.only4.online/11091/index.m3u8?token=
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11093.png",Muz TV Azerbaijan
+http://cdn.only4.online/11093/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11094.png",Ayaz TV [AZ]
 http://cdn.only4.online/11094/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11097.png",Könül TV [AZ]
