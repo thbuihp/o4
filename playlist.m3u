@@ -939,7 +939,7 @@ http://cdn.only4.online/11119/index.m3u8?token=
 http://cdn.only4.online/11120/index.m3u8?token=
 #EXTINF:-1 tvg-id="otv-lv" tvg-logo="http://only4.tv/ch/11121.png",OTV HD
 http://cdn.only4.online/11121/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11123.png",Телеканал Среда
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11123.png",Amazon Prime Romance
 http://cdn.only4.online/11123/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11124.png",Кино 24/7
 http://cdn.only4.online/11124/index.m3u8?token=
