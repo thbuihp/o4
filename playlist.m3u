@@ -1015,7 +1015,7 @@ http://cdn.only4.online/11176/index.m3u8?token=
 http://cdn.only4.online/6641/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-logo="http://only4.tv/ch/6642.png",BCU Criminal HD
 http://cdn.only4.online/6642/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-cosmo" tvg-logo="http://only4.tv/ch/7830.png",BCU Cosmo HD
+#EXTINF:-1 tvg-id="bcu-cosmo" tvg-logo="http://only4.tv/ch/7830.png",BCU Family HDR
 http://cdn.only4.online/7830/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-cosmo-hdr" tvg-logo="http://only4.tv/ch/9531.png",BCU Cosmo HDR
 http://cdn.only4.online/9531/index.m3u8?token=
@@ -1787,7 +1787,7 @@ http://cdn.only4.online/6322/index.m3u8?token=
 http://cdn.only4.online/7230/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-kids-4k" tvg-logo="http://only4.tv/ch/7881.png",BCU Kids 4K
 http://cdn.only4.online/7881/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-svaty-4k" tvg-logo="http://only4.tv/ch/9532.png",BCU Сваты 4K
+#EXTINF:-1 tvg-id="bcu-svaty-4k" tvg-logo="http://only4.tv/ch/9532.png",BCU Праздники HDR
 http://cdn.only4.online/9532/index.m3u8?token=
 #EXTINF:-1 tvg-id="yosso-4k" tvg-logo="http://only4.tv/ch/7640.png",Yosso TV 4K
 http://cdn.only4.online/7640/index.m3u8?token=
@@ -2493,8 +2493,6 @@ http://cdn.only4.online/9019/index.m3u8?token=
 http://cdn.only4.online/9020/index.m3u8?token=
 #EXTINF:-1 tvg-id="cmore-fotboll" tvg-logo="http://only4.tv/ch/9021.png",TV4 Fotboll HD
 http://cdn.only4.online/9021/index.m3u8?token=
-#EXTINF:-1 tvg-id="dazn-f1-es" tvg-logo="http://only4.tv/ch/9022.png",DAZN F1
-http://cdn.only4.online/9022/index.m3u8?token=
 #EXTINF:-1 tvg-id="cars-n-stars" tvg-logo="http://only4.tv/ch/9025.png",Cars & Stars TV HD
 http://cdn.only4.online/9025/index.m3u8?token=
 #EXTINF:-1 tvg-id="sportsnet-360-ca" tvg-logo="http://only4.tv/ch/9027.png",SportsNet 360
@@ -2509,9 +2507,9 @@ http://cdn.only4.online/9259/index.m3u8?token=
 http://cdn.only4.online/9365/index.m3u8?token=
 #EXTINF:-1 tvg-id="upltv" tvg-logo="http://only4.tv/ch/9437.png",UPL ТВ HD
 http://cdn.only4.online/9437/index.m3u8?token=
-#EXTINF:-1 tvg-id="box-sr-sport-4k-hdr" tvg-logo="http://only4.tv/ch/9813.png",BOX SR Sport 4K HDR
+#EXTINF:-1 tvg-id="box-sr-sport-4k-hdr" tvg-logo="http://only4.tv/ch/9813.png",BOX SR Sport HDR
 http://cdn.only4.online/9813/index.m3u8?token=
-#EXTINF:-1 tvg-id="box-sr-sport-live-4k-hdr" tvg-logo="http://only4.tv/ch/9814.png",BOX SR Sport Live 4K HDR
+#EXTINF:-1 tvg-id="box-sr-sport-live-4k-hdr" tvg-logo="http://only4.tv/ch/9814.png",BOX SR Sport 1 Live HDR
 http://cdn.only4.online/9814/index.m3u8?token=
 #EXTINF:-1 tvg-id="daznbar1" tvg-logo="http://only4.tv/ch/9815.png",DAZN 1 HD
 http://cdn.only4.online/9815/index.m3u8?token=
