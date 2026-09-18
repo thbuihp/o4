@@ -1507,7 +1507,7 @@ http://cdn.only4.online/9850/index.m3u8?token=
 http://cdn.only4.online/9852/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9853.png",Kino Action HD
 http://cdn.only4.online/9853/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9854.png",Cinema Fantasy HD
+#EXTINF:-1 tvg-id="cinema-fantasy-ua" tvg-logo="http://only4.tv/ch/9854.png",Cinema Fantasy HD
 http://cdn.only4.online/9854/index.m3u8?token=
 #EXTINF:-1 tvg-id="cityedem-kinoact" tvg-logo="http://only4.tv/ch/9856.png",Сити Эдем КиноЭкшен HD
 http://cdn.only4.online/9856/index.m3u8?token=
@@ -3991,9 +3991,9 @@ http://cdn.only4.online/10654/index.m3u8?token=
 http://cdn.only4.online/10655/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10656.png",Стосується Кожного
 http://cdn.only4.online/10656/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10657.png",Опер за Викликом+
+#EXTINF:-1 tvg-id="oper-za-vyklykom-plus-ua" tvg-logo="http://only4.tv/ch/10657.png",Опер за викликом+ HD
 http://cdn.only4.online/10657/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10658.png",Сімейні Мелодрами+
+#EXTINF:-1 tvg-id="simejny-melodramy-plus-ua" tvg-logo="http://only4.tv/ch/10658.png",Сімейні мелодрами+ HD
 http://cdn.only4.online/10658/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10659.png",ЖВЛ+
 http://cdn.only4.online/10659/index.m3u8?token=
@@ -4515,15 +4515,15 @@ http://cdn.only4.online/11079/index.m3u8?token=
 http://cdn.only4.online/11115/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11082.png",TIC (Одеса)
 http://cdn.only4.online/11082/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11085.png",Хіт Бойовик HD
+#EXTINF:-1 tvg-id="hit-boyovyk-ua" tvg-logo="http://only4.tv/ch/11085.png",Хіт Бойовик HD
 http://cdn.only4.online/11085/index.m3u8?token=
-#EXTINF:-1 tvg-id="2713-khit-komediya-hd" tvg-logo="http://only4.tv/ch/11086.png",Хіт Комедія HD
+#EXTINF:-1 tvg-id="hit-komedia-ua" tvg-logo="http://only4.tv/ch/11086.png",Хіт Комедія HD
 http://cdn.only4.online/11086/index.m3u8?token=
 #EXTINF:-1 tvg-id="ptrk-pavlograd" tvg-logo="http://only4.tv/ch/11087.png",ПТРК HD (Павлоград)
 http://cdn.only4.online/11087/index.m3u8?token=
 #EXTINF:-1 tvg-id="history" tvg-logo="http://only4.tv/ch/11088.png",History HD (UA)
 http://cdn.only4.online/11088/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11243.png",Sweet Kino HD
+#EXTINF:-1 tvg-id="sweet-kino-ua" tvg-logo="http://only4.tv/ch/11243.png",Sweet Kino HD
 http://cdn.only4.online/11243/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11349.png",Снятин HD
 http://cdn.only4.online/11349/index.m3u8?token=
@@ -4535,29 +4535,29 @@ http://cdn.only4.online/11351/index.m3u8?token=
 http://cdn.only4.online/11352/index.m3u8?token=
 #EXTINF:-1 tvg-id="2079-varyat-hd" tvg-logo="http://only4.tv/ch/11353.png",Вар'яти HD
 http://cdn.only4.online/11353/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11354.png",Кіно на Різдво HD
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11354.png",Життя на трьох HD
 http://cdn.only4.online/11354/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11355.png",Sweet Megahit HD
+#EXTINF:-1 tvg-id="sweet-megahit-ua" tvg-logo="http://only4.tv/ch/11355.png",Sweet Megahit HD
 http://cdn.only4.online/11355/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11356.png",Sweet Мультфільми HD
+#EXTINF:-1 tvg-id="sweet-multfilmy-ua" tvg-logo="http://only4.tv/ch/11356.png",Sweet Мультфільми HD
 http://cdn.only4.online/11356/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11357.png",Premium Action HD
+#EXTINF:-1 tvg-id="premium-action-ua" tvg-logo="http://only4.tv/ch/11357.png",Premium Action HD
 http://cdn.only4.online/11357/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11358.png",Action Prime HD
 http://cdn.only4.online/11358/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11359.png",Cinema Megahit HD
+#EXTINF:-1 tvg-id="cinema-megahit-ua" tvg-logo="http://only4.tv/ch/11359.png",Cinema Megahit HD
 http://cdn.only4.online/11359/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11360.png",Cinema Kinohit HD
+#EXTINF:-1 tvg-id="cinema-kinohit-ua" tvg-logo="http://only4.tv/ch/11360.png",Cinema Kinohit HD
 http://cdn.only4.online/11360/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11361.png",Cinema Legend HD
+#EXTINF:-1 tvg-id="cinema-legend-ua" tvg-logo="http://only4.tv/ch/11361.png",Cinema Legend HD
 http://cdn.only4.online/11361/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11362.png",Cinema Prime HD
+#EXTINF:-1 tvg-id="cinema-prime-ua" tvg-logo="http://only4.tv/ch/11362.png",Cinema Prime HD
 http://cdn.only4.online/11362/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11363.png",Cinema Action HD
+#EXTINF:-1 tvg-id="cinema-action-ua" tvg-logo="http://only4.tv/ch/11363.png",Cinema Action HD
 http://cdn.only4.online/11363/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11364.png",Cinema Comedy HD
+#EXTINF:-1 tvg-id="cinema-comedy-ua" tvg-logo="http://only4.tv/ch/11364.png",Cinema Comedy HD
 http://cdn.only4.online/11364/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11365.png",Cinema Family HD
+#EXTINF:-1 tvg-id="cinema-family-ua" tvg-logo="http://only4.tv/ch/11365.png",Cinema Family HD
 http://cdn.only4.online/11365/index.m3u8?token=
 #EXTINF:-1 tvg-id="rai-ua" tvg-logo="http://only4.tv/ch/11479.png",РАІ
 http://cdn.only4.online/11479/index.m3u8?token=
