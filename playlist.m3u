@@ -161,7 +161,7 @@ http://cdn.only4.online/6540/index.m3u8?token=
 http://cdn.only4.online/6548/index.m3u8?token=
 #EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-logo="http://only4.tv/ch/6758.png",Свое ТВ (Ставрополь)
 http://cdn.only4.online/6758/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6761.png",4 канал
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/6761.png",Первый Ростовский
 http://cdn.only4.online/6761/index.m3u8?token=
 #EXTINF:-1 tvg-id="volga" tvg-logo="http://only4.tv/ch/6762.png",Волга
 http://cdn.only4.online/6762/index.m3u8?token=
@@ -4773,8 +4773,6 @@ http://cdn.only4.online/5541/index.m3u8?token=
 http://cdn.only4.online/5543/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="http://only4.tv/ch/5542.png",Беларусь 5
 http://cdn.only4.online/5542/index.m3u8?token=
-#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="http://only4.tv/ch/9873.png",Беларусь 5 Интернет
-http://cdn.only4.online/9873/index.m3u8?token=
 #EXTINF:-1 tvg-id="belarus24" tvg-logo="http://only4.tv/ch/5559.png",Беларусь 24 HD
 http://cdn.only4.online/5559/index.m3u8?token=
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="http://only4.tv/ch/6246.png",ОНТ Беларусь
