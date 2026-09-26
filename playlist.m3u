@@ -6389,8 +6389,6 @@ http://cdn.only4.online/7628/index.m3u8?token=
 http://cdn.only4.online/7631/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7632.png",Kepez TV [AZ]
 http://cdn.only4.online/7632/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/7634.png",Vilayet TV [AZ]
-http://cdn.only4.online/7634/index.m3u8?token=
 #EXTINF:-1 tvg-id="xezer" tvg-logo="http://only4.tv/ch/7635.png",Xezer [AZ]
 http://cdn.only4.online/7635/index.m3u8?token=
 #EXTINF:-1 tvg-id="aztv" tvg-logo="http://only4.tv/ch/7641.png",AZ TV [AZ]
@@ -6419,8 +6417,6 @@ http://cdn.only4.online/11089/index.m3u8?token=
 http://cdn.only4.online/11090/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11091.png",Mahni TV [AZ]
 http://cdn.only4.online/11091/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11093.png",Muz TV Azerbaijan
-http://cdn.only4.online/11093/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11094.png",Ayaz TV [AZ]
 http://cdn.only4.online/11094/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11097.png",Könül TV [AZ]
@@ -6431,11 +6427,11 @@ http://cdn.only4.online/11101/index.m3u8?token=
 http://cdn.only4.online/11104/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11678.png",Diginet Cinema [AZ]
 http://cdn.only4.online/11678/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11700.png",Sport TV [AZ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11700.png",Vilayet TV [AZ]
 http://cdn.only4.online/11700/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11701.png",Sport TV 2 [AZ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11701.png",Muz TV [AZ]
 http://cdn.only4.online/11701/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11702.png",TVNet Sport [AZ]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11702.png",TV1 HD [AZ]
 http://cdn.only4.online/11702/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8375.png",Азия ТВ [KG]
 http://cdn.only4.online/8375/index.m3u8?token=
