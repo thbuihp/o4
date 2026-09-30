@@ -1001,7 +1001,7 @@ http://cdn.only4.online/6857/index.m3u8?token=
 http://cdn.only4.online/6860/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-logo="http://only4.tv/ch/6292.png",BCU RUSerial HD
 http://cdn.only4.online/6292/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="http://only4.tv/ch/6293.png",BCU СССР HD
+#EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="http://only4.tv/ch/6293.png",BCU Fantasy HDR
 http://cdn.only4.online/6293/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-stars" tvg-logo="http://only4.tv/ch/6311.png",BCU Stars HD
 http://cdn.only4.online/6311/index.m3u8?token=
@@ -4037,6 +4037,220 @@ http://cdn.only4.online/10871/index.m3u8?token=
 http://cdn.only4.online/11033/index.m3u8?token=
 #EXTINF:-1 tvg-id="viasat-true-crime-cee" tvg-logo="http://only4.tv/ch/10872.png",Viasat True Crime CEE (UA)
 http://cdn.only4.online/10872/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Alf" tvg-logo="http://only4.tv/ch/9620.png",Joker: Альф
+http://cdn.only4.online/9620/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Gostri_Kartuz" tvg-logo="http://only4.tv/ch/9625.png",Joker: Гострі Картузи
+http://cdn.only4.online/9625/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Friends" tvg-logo="http://only4.tv/ch/9621.png",Joker: Друзі
+http://cdn.only4.online/9621/index.m3u8?token=
+#EXTINF:-1 tvg-id="House_ukr" tvg-logo="http://only4.tv/ch/9622.png",Joker: Доктор Хаус
+http://cdn.only4.online/9622/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_GoT" tvg-logo="http://only4.tv/ch/9623.png",Joker: Гра Престолів
+http://cdn.only4.online/9623/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Sherlock" tvg-logo="http://only4.tv/ch/9624.png",Joker: Шерлок
+http://cdn.only4.online/9624/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Vedmak" tvg-logo="http://only4.tv/ch/9626.png",Joker: Відьмак
+http://cdn.only4.online/9626/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_x_files" tvg-logo="http://only4.tv/ch/9627.png",Joker: Секретні Матеріали
+http://cdn.only4.online/9627/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Poirot" tvg-logo="http://only4.tv/ch/9628.png",Joker: Пуаро Агати Крісті
+http://cdn.only4.online/9628/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Dexter" tvg-logo="http://only4.tv/ch/9629.png",Joker: Декстер
+http://cdn.only4.online/9629/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Castle" tvg-logo="http://only4.tv/ch/9630.png",Joker: Касл
+http://cdn.only4.online/9630/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_kosty" tvg-logo="http://only4.tv/ch/9631.png",Joker: Кістки
+http://cdn.only4.online/9631/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Lie_To_Me" tvg-logo="http://only4.tv/ch/9632.png",Joker:Теорія Брехні
+http://cdn.only4.online/9632/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_sexsity" tvg-logo="http://only4.tv/ch/9633.png",Joker: Секс і Місто
+http://cdn.only4.online/9633/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_desperate_ukr" tvg-logo="http://only4.tv/ch/9634.png",Joker: Вітчайдушні Домогосподарки
+http://cdn.only4.online/9634/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Colombo" tvg-logo="http://only4.tv/ch/9635.png",Joker: Коломбо
+http://cdn.only4.online/9635/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Your_mother" tvg-logo="http://only4.tv/ch/9636.png",Joker: Як я Зустрів Вашу Маму
+http://cdn.only4.online/9636/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Criminal" tvg-logo="http://only4.tv/ch/9637.png",Joker: Mислити як Злочинець
+http://cdn.only4.online/9637/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_mentalist" tvg-logo="http://only4.tv/ch/9638.png",Joker: Менталіст
+http://cdn.only4.online/9638/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_office" tvg-logo="http://only4.tv/ch/9639.png",Joker: Офіс
+http://cdn.only4.online/9639/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Scrubs" tvg-logo="http://only4.tv/ch/9640.png",Joker: Клініка
+http://cdn.only4.online/9640/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_element" tvg-logo="http://only4.tv/ch/9641.png",Joker: Елементарно
+http://cdn.only4.online/9641/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Black_Mirror" tvg-logo="http://only4.tv/ch/9642.png",Joker: Чорне Дзеркало
+http://cdn.only4.online/9642/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_South_Park" tvg-logo="http://only4.tv/ch/9643.png",Joker: Південний Парк
+http://cdn.only4.online/9643/index.m3u8?token=
+#EXTINF:-1 tvg-id="Simson" tvg-logo="http://only4.tv/ch/9644.png",Joker: Simpsons (UA)
+http://cdn.only4.online/9644/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_black_cloak" tvg-logo="http://only4.tv/ch/9645.png",Joker: Темний Плащ
+http://cdn.only4.online/9645/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_ducks" tvg-logo="http://only4.tv/ch/9646.png",Joker: Качині Історії
+http://cdn.only4.online/9646/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_panda" tvg-logo="http://only4.tv/ch/9647.png",Joker: Кунг-фу Панда
+http://cdn.only4.online/9647/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Pepa_pig" tvg-logo="http://only4.tv/ch/9648.png",Joker: Свинка Пепа
+http://cdn.only4.online/9648/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_PAW_Patrol" tvg-logo="http://only4.tv/ch/9649.png",Joker: Щенячий Патруль
+http://cdn.only4.online/9649/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_fargo" tvg-logo="http://only4.tv/ch/9908.png",Joker: Фарго
+http://cdn.only4.online/9908/index.m3u8?token=
+#EXTINF:-1 tvg-id="gubka_bob" tvg-logo="http://only4.tv/ch/9909.png",Joker: Губка Боб
+http://cdn.only4.online/9909/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_grimm" tvg-logo="http://only4.tv/ch/9910.png",Joker: Грімм
+http://cdn.only4.online/9910/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_futurama" tvg-logo="http://only4.tv/ch/9911.png",Joker: Футурама
+http://cdn.only4.online/9911/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_csi_NY" tvg-logo="http://only4.tv/ch/9912.png",Joker: CSI:Місце Злочину Нью-Йорк
+http://cdn.only4.online/9912/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_csi_vegas" tvg-logo="http://only4.tv/ch/9913.png",Joker: CSI:Місце Злочину Лас-Вегас
+http://cdn.only4.online/9913/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_csi_m" tvg-logo="http://only4.tv/ch/9914.png",Joker: CSI:Місце Злочину Маямі
+http://cdn.only4.online/9914/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_House_Dragon" tvg-logo="http://only4.tv/ch/9915.png",Joker: House Dragon
+http://cdn.only4.online/9915/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_ledi_Bag" tvg-logo="http://only4.tv/ch/9916.png",Joker: Леді Баг і Супер кіт
+http://cdn.only4.online/9916/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_brookllyn" tvg-logo="http://only4.tv/ch/9917.png",Joker: Бруклін 9-9
+http://cdn.only4.online/9917/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_FUBAR" tvg-logo="http://only4.tv/ch/9918.png",Joker: Фубар
+http://cdn.only4.online/9918/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_berega" tvg-logo="http://only4.tv/ch/9919.png",Joker: Пуститися Берега
+http://cdn.only4.online/9919/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Muhtesem" tvg-logo="http://only4.tv/ch/9920.png",Joker: Величне Століття
+http://cdn.only4.online/9920/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Ben_Holly" tvg-logo="http://only4.tv/ch/9921.png",Joker: Маленьке Королівство Бена і Холлі
+http://cdn.only4.online/9921/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_American_Dad" tvg-logo="http://only4.tv/ch/9922.png",Joker: Американський Тато
+http://cdn.only4.online/9922/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Gravity_Falls" tvg-logo="http://only4.tv/ch/9923.png",Joker: Гравіті Фолз
+http://cdn.only4.online/9923/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Grifins" tvg-logo="http://only4.tv/ch/9924.png",Joker: Гріфіни
+http://cdn.only4.online/9924/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Robocar_Poli" tvg-logo="http://only4.tv/ch/9925.png",Joker: Робокар Полі
+http://cdn.only4.online/9925/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Big_Bang" tvg-logo="http://only4.tv/ch/9926.png",Joker: Теорія Великого Вибуху
+http://cdn.only4.online/9926/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_gorets" tvg-logo="http://only4.tv/ch/9927.png",Joker: Горець
+http://cdn.only4.online/9927/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Magic" tvg-logo="http://only4.tv/ch/9928.png",Joker: Усі Жінки Відьми
+http://cdn.only4.online/9928/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Rik_i_Marti" tvg-logo="http://only4.tv/ch/9929.png",Joker: Рік і Морті
+http://cdn.only4.online/9929/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_fineas" tvg-logo="http://only4.tv/ch/9930.png",Joker: Фінеас і Ферб
+http://cdn.only4.online/9930/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Succession" tvg-logo="http://only4.tv/ch/9931.png",Joker: Спадкоємці
+http://cdn.only4.online/9931/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_korona" tvg-logo="http://only4.tv/ch/9932.png",Joker: Корона
+http://cdn.only4.online/9932/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Money_Heist" tvg-logo="http://only4.tv/ch/9933.png",Joker: Паперовий Будинок
+http://cdn.only4.online/9933/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_lost" tvg-logo="http://only4.tv/ch/9934.png",Joker: Загублені
+http://cdn.only4.online/9934/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_house_of_cards" tvg-logo="http://only4.tv/ch/9935.png",Joker: Картковий Будинок
+http://cdn.only4.online/9935/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Buffy" tvg-logo="http://only4.tv/ch/9936.png",Joker: Баффі Винищувачка Вампірів
+http://cdn.only4.online/9936/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Stargate" tvg-logo="http://only4.tv/ch/9937.png",Joker: Зоряна Брама
+http://cdn.only4.online/9937/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Only_Murders" tvg-logo="http://only4.tv/ch/9938.png",Joker: Убивства в Одній Будівлі
+http://cdn.only4.online/9938/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_NCIS" tvg-logo="http://only4.tv/ch/9939.png",Joker: NCIS Морська Поліція
+http://cdn.only4.online/9939/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Call_Saul" tvg-logo="http://only4.tv/ch/9940.png",Joker: Краще Подзвоніть Солу
+http://cdn.only4.online/9940/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_dark" tvg-logo="http://only4.tv/ch/9941.png",Joker: Темрява
+http://cdn.only4.online/9941/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Heroes" tvg-logo="http://only4.tv/ch/9942.png",Joker: Герої
+http://cdn.only4.online/9942/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_timon" tvg-logo="http://only4.tv/ch/9943.png",Joker: Тімон і Бумба
+http://cdn.only4.online/9943/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_pingvins" tvg-logo="http://only4.tv/ch/9944.png",Joker: Пінгвіни Мадагаскару
+http://cdn.only4.online/9944/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Cartoon" tvg-logo="http://only4.tv/ch/9945.png",Joker: МультКолекція
+http://cdn.only4.online/9945/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Flintstones" tvg-logo="http://only4.tv/ch/9946.png",Joker: Флінстоуни
+http://cdn.only4.online/9946/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Lilo" tvg-logo="http://only4.tv/ch/9947.png",Joker: Ліло і Стіч
+http://cdn.only4.online/9947/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_rusaloshka" tvg-logo="http://only4.tv/ch/9948.png",Joker: Русалонька і Друзі
+http://cdn.only4.online/9948/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_aladin" tvg-logo="http://only4.tv/ch/9949.png",Joker: Аладдін
+http://cdn.only4.online/9949/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Chip_Dale" tvg-logo="http://only4.tv/ch/9950.png",Joker: Чіп і Дейл
+http://cdn.only4.online/9950/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_arnold" tvg-logo="http://only4.tv/ch/9951.png",Joker: Гей Арнольде!
+http://cdn.only4.online/9951/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Cinema" tvg-logo="http://only4.tv/ch/9952.png",Joker: Cinema
+http://cdn.only4.online/9952/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Cinema2" tvg-logo="http://only4.tv/ch/9953.png",Joker: Cinema 2
+http://cdn.only4.online/9953/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_doku_Ukraine" tvg-logo="http://only4.tv/ch/9954.png",Joker: Історично-Документальний
+http://cdn.only4.online/9954/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_strah" tvg-logo="http://only4.tv/ch/9955.png",Joker: Жахи
+http://cdn.only4.online/9955/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Sliders" tvg-logo="http://only4.tv/ch/9956.png",Joker: Паралельні Світи
+http://cdn.only4.online/9956/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_detektiv" tvg-logo="http://only4.tv/ch/9957.png",Joker: Детектив
+http://cdn.only4.online/9957/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_biograf" tvg-logo="http://only4.tv/ch/9958.png",Joker: Біографічне
+http://cdn.only4.online/9958/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_speed" tvg-logo="http://only4.tv/ch/9959.png",Joker: Швидкість
+http://cdn.only4.online/9959/index.m3u8?token=
+#EXTINF:-1 tvg-id="love" tvg-logo="http://only4.tv/ch/10620.png",Joker: Про Кохання
+http://cdn.only4.online/10620/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_90" tvg-logo="http://only4.tv/ch/10621.png",Joker: 90-ті
+http://cdn.only4.online/10621/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Mel" tvg-logo="http://only4.tv/ch/10622.png",Joker: Мел Гібсон
+http://cdn.only4.online/10622/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Van_Dame" tvg-logo="http://only4.tv/ch/10623.png",Joker: Ван Дамм
+http://cdn.only4.online/10623/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_formula" tvg-logo="http://only4.tv/ch/10624.png",Joker: Формула 1. Жени щоб Вижити
+http://cdn.only4.online/10624/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Criminal" tvg-logo="http://only4.tv/ch/10625.png",Joker: Mислити як Злочинець
+http://cdn.only4.online/10625/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_dram" tvg-logo="http://only4.tv/ch/10626.png",Joker: Драма
+http://cdn.only4.online/10626/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_ograblenie" tvg-logo="http://only4.tv/ch/10627.png",Joker: Пограбування
+http://cdn.only4.online/10627/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Ritchie" tvg-logo="http://only4.tv/ch/10628.png",Joker: Найкращі Американські Режисери
+http://cdn.only4.online/10628/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Scorsese" tvg-logo="http://only4.tv/ch/10629.png",Joker: Мартін Скорсезе
+http://cdn.only4.online/10629/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Spilberg" tvg-logo="http://only4.tv/ch/10630.png",Joker: Стівен Спілберг
+http://cdn.only4.online/10630/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Kopola" tvg-logo="http://only4.tv/ch/10631.png",Joker: Френсіс Форд Коппола
+http://cdn.only4.online/10631/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Skott" tvg-logo="http://only4.tv/ch/10632.png",Joker: Рідлі Скотт
+http://cdn.only4.online/10632/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Tarantino" tvg-logo="http://only4.tv/ch/10633.png",Joker: Квентін Тарантіно
+http://cdn.only4.online/10633/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Kameron" tvg-logo="http://only4.tv/ch/10634.png",Joker: Джеймс Кемерон
+http://cdn.only4.online/10634/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Besson" tvg-logo="http://only4.tv/ch/10635.png",Joker: Люк Бессон
+http://cdn.only4.online/10635/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Nolan" tvg-logo="http://only4.tv/ch/10636.png",Joker: Найкращі Американські Режисери 2
+http://cdn.only4.online/10636/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_King" tvg-logo="http://only4.tv/ch/10637.png",Joker: Стівен Кінг
+http://cdn.only4.online/10637/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Crowe" tvg-logo="http://only4.tv/ch/10638.png",Joker: Рассел Кроу
+http://cdn.only4.online/10638/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Reeves" tvg-logo="http://only4.tv/ch/10639.png",Joker: Кіану Рівз
+http://cdn.only4.online/10639/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Hemsworth" tvg-logo="http://only4.tv/ch/10640.png",Joker: Кріс Хемсворт
+http://cdn.only4.online/10640/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Butler" tvg-logo="http://only4.tv/ch/10641.png",Joker: Джерард Батлер
+http://cdn.only4.online/10641/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Kunis" tvg-logo="http://only4.tv/ch/10642.png",Joker: Міла Куніс та Ештон Катчер
+http://cdn.only4.online/10642/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Neeson" tvg-logo="http://only4.tv/ch/10643.png",Joker: Ліам Нісон
+http://cdn.only4.online/10643/index.m3u8?token=
+#EXTINF:-1 tvg-id="jk_Scorpion" tvg-logo="http://only4.tv/ch/10644.png",Joker: Скорпіон
+http://cdn.only4.online/10644/index.m3u8?token=
 #EXTINF:-1 tvg-id="cpu_prim1" tvg-logo="http://only4.tv/ch/10045.png",CPU Кіно Премєра 1 HD
 http://cdn.only4.online/10045/index.m3u8?token=
 #EXTINF:-1 tvg-id="cpu_prim2" tvg-logo="http://only4.tv/ch/10046.png",CPU Кіно Премєра 2 HD
@@ -4347,7 +4561,7 @@ http://cdn.only4.online/11364/index.m3u8?token=
 http://cdn.only4.online/11365/index.m3u8?token=
 #EXTINF:-1 tvg-id="rai-ua" tvg-logo="http://only4.tv/ch/11479.png",РАІ
 http://cdn.only4.online/11479/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11480.png",Готуємо Разом
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11480.png", Мастер Шеф Битва Сезонів
 http://cdn.only4.online/11480/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11481.png",Комедійні Серіали HD
 http://cdn.only4.online/11481/index.m3u8?token=
@@ -6591,11 +6805,11 @@ http://cdn.only4.online/10841/index.m3u8?token=
 http://cdn.only4.online/10842/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10885.png",Sky Cinema Action HD [DE]
 http://cdn.only4.online/10885/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10886.png",Sky Cinema Special HD [DE]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10886.png",Sky Cinema Blockbuster HD [DE]
 http://cdn.only4.online/10886/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10887.png",RTL Crime HD [DE]
 http://cdn.only4.online/10887/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10888.png",Sky Cinema Hits HD [DE]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10888.png",Sky Cinema Collection HD [DE]
 http://cdn.only4.online/10888/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10889.png",ORF 1 HD [DE]
 http://cdn.only4.online/10889/index.m3u8?token=
