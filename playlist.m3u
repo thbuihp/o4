@@ -4555,7 +4555,7 @@ http://cdn.only4.online/11361/index.m3u8?token=
 http://cdn.only4.online/11362/index.m3u8?token=
 #EXTINF:-1 tvg-id="cinema-action-ua" tvg-logo="http://only4.tv/ch/11363.png",Cinema Action HD
 http://cdn.only4.online/11363/index.m3u8?token=
-#EXTINF:-1 tvg-id="cinema-comedy-ua" tvg-logo="http://only4.tv/ch/11364.png",Cinema Comedy HD
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11364.png",Premium Comedy HD
 http://cdn.only4.online/11364/index.m3u8?token=
 #EXTINF:-1 tvg-id="cinema-family-ua" tvg-logo="http://only4.tv/ch/11365.png",Cinema Family HD
 http://cdn.only4.online/11365/index.m3u8?token=
