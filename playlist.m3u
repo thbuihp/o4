@@ -3251,9 +3251,9 @@ http://cdn.only4.online/7565/index.m3u8?token=
 http://cdn.only4.online/7566/index.m3u8?token=
 #EXTINF:-1 tvg-id="teledom" tvg-logo="http://only4.tv/ch/8010.png",Теледом ТВ
 http://cdn.only4.online/8010/index.m3u8?token=
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://only4.tv/ch/9830.png",HTB Стиль HD
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://only4.tv/ch/9830.png",HTB Стиль Жизни HD
 http://cdn.only4.online/9830/index.m3u8?token=
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://only4.tv/ch/415.png",HTB Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://only4.tv/ch/415.png",HTB Стиль Жизни
 http://cdn.only4.online/415/index.m3u8?token=
 #EXTINF:-1 tvg-id="kto-est-kto" tvg-logo="http://only4.tv/ch/109.png",Кто есть Кто
 http://cdn.only4.online/109/index.m3u8?token=
@@ -3323,7 +3323,7 @@ http://cdn.only4.online/6580/index.m3u8?token=
 http://cdn.only4.online/9685/index.m3u8?token=
 #EXTINF:-1 tvg-id="the-explorers" tvg-logo="http://only4.tv/ch/9673.png",The Explorers HD
 http://cdn.only4.online/9673/index.m3u8?token=
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="http://only4.tv/ch/9674.png",Неизвестная Россия HD
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="http://only4.tv/ch/9674.png",HTB Неизвестная Россия HD
 http://cdn.only4.online/9674/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://only4.tv/ch/9810.png",TVPlay Следствие вели с Л.Каневским
 http://cdn.only4.online/9810/index.m3u8?token=
@@ -6835,7 +6835,7 @@ http://cdn.only4.online/9610/index.m3u8?token=
 http://cdn.only4.online/9611/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9612.png",RAI Gulp HD [IT]
 http://cdn.only4.online/9612/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9613.png",RAI Scuola HD [IT]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9613.png",Italiana HD [IT]
 http://cdn.only4.online/9613/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/9614.png",RAI YoYo HD [IT]
 http://cdn.only4.online/9614/index.m3u8?token=
