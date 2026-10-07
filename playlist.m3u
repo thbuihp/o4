@@ -689,7 +689,7 @@ http://cdn.only4.online/7648/index.m3u8?token=
 http://cdn.only4.online/7704/index.m3u8?token=
 #EXTINF:-1 tvg-id="prokino" tvg-logo="http://only4.tv/ch/7705.png",ProKino HD
 http://cdn.only4.online/7705/index.m3u8?token=
-#EXTINF:-1 tvg-id="epik-drama" tvg-logo="http://only4.tv/ch/7716.png",Epic Drama HD
+#EXTINF:-1 tvg-id="epik-drama" tvg-logo="http://only4.tv/ch/7716.png",Viasat Epic Drama HD
 http://cdn.only4.online/7716/index.m3u8?token=
 #EXTINF:-1 tvg-id="kinokazka" tvg-logo="http://only4.tv/ch/7722.png",КіноКазка
 http://cdn.only4.online/7722/index.m3u8?token=
@@ -4697,7 +4697,7 @@ http://cdn.only4.online/10516/index.m3u8?token=
 http://cdn.only4.online/10517/index.m3u8?token=
 #EXTINF:-1 tvg-id="re-tv" tvg-logo="http://only4.tv/ch/10518.png",RE TV
 http://cdn.only4.online/10518/index.m3u8?token=
-#EXTINF:-1 tvg-id="epik-drama" tvg-logo="http://only4.tv/ch/10519.png",Epic Drama HD (LV)
+#EXTINF:-1 tvg-id="epik-drama" tvg-logo="http://only4.tv/ch/10519.png",Viasat Epic Drama HD (LV)
 http://cdn.only4.online/10519/index.m3u8?token=
 #EXTINF:-1 tvg-id="stv-pirma!" tvg-logo="http://only4.tv/ch/10523.png",STV Pirma! HD
 http://cdn.only4.online/10523/index.m3u8?token=
@@ -5493,7 +5493,7 @@ http://cdn.only4.online/10874/index.m3u8?token=
 http://cdn.only4.online/10875/index.m3u8?token=
 #EXTINF:-1 tvg-id="wydarzenia-24" tvg-logo="http://only4.tv/ch/11132.png",Wydarzenia 24 [PL]
 http://cdn.only4.online/11132/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11133.png",Epic Drama [PL]
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11133.png",Viasat Epic Drama [PL]
 http://cdn.only4.online/11133/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/11134.png",TV Kujavy  [PL]
 http://cdn.only4.online/11134/index.m3u8?token=
@@ -6605,7 +6605,7 @@ http://cdn.only4.online/9192/index.m3u8?token=
 http://cdn.only4.online/9194/index.m3u8?token=
 #EXTINF:-1 tvg-id="the-fishing-hunting" tvg-logo="http://only4.tv/ch/9195.png",Fishing and Hunting [CZ]
 http://cdn.only4.online/9195/index.m3u8?token=
-#EXTINF:-1 tvg-id="epic-drama-pl" tvg-logo="http://only4.tv/ch/9196.png",Epic Drama HD [CZ]
+#EXTINF:-1 tvg-id="epic-drama-pl" tvg-logo="http://only4.tv/ch/9196.png",Viasat Epic Drama HD [CZ]
 http://cdn.only4.online/9196/index.m3u8?token=
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://only4.tv/ch/9198.png",Cartoonito [CZ]
 http://cdn.only4.online/9198/index.m3u8?token=
@@ -7541,7 +7541,7 @@ http://cdn.only4.online/5555/index.m3u8?token=
 http://cdn.only4.online/5556/index.m3u8?token=
 #EXTINF:-1 tvg-id="vivid-red" tvg-logo="http://only4.tv/ch/5557.png",Vivid Red HD
 http://cdn.only4.online/5557/index.m3u8?token=
-#EXTINF:-1 tvg-id="blue-hustler" tvg-logo="http://only4.tv/ch/6269.png",Blue Hustler
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://only4.tv/ch/6269.png",Соблазн
 http://cdn.only4.online/6269/index.m3u8?token=
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="http://only4.tv/ch/6270.png",Brazzers TV HD
 http://cdn.only4.online/6270/index.m3u8?token=
@@ -7683,7 +7683,7 @@ http://cdn.only4.online/8706/index.m3u8?token=
 http://cdn.only4.online/8946/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://only4.tv/ch/9168.png",Sex View Gay HD
 http://cdn.only4.online/9168/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVSV4K.ge" tvg-logo="http://only4.tv/ch/9180.png",Sex View Gay 4K
+#EXTINF:-1 tvg-id="TVSV4K.ge" tvg-logo="http://only4.tv/ch/9180.png",Sex View Extra
 http://cdn.only4.online/9180/index.m3u8?token=
 #EXTINF:-1 tvg-id="russkaya-noch" tvg-logo="http://only4.tv/ch/9413.png",Русская Ночь
 http://cdn.only4.online/9413/index.m3u8?token=
