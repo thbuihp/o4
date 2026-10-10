@@ -1281,7 +1281,7 @@ http://cdn.only4.online/8506/index.m3u8?token=
 http://cdn.only4.online/8655/index.m3u8?token=
 #EXTINF:-1 tvg-id="magic-premiere" tvg-logo="http://only4.tv/ch/10568.png",Magic Premiere
 http://cdn.only4.online/10568/index.m3u8?token=
-#EXTINF:-1 tvg-id="kinoliving" tvg-logo="http://only4.tv/ch/8146.png",KinoLiving HD
+#EXTINF:-1 tvg-id="kinoliving" tvg-logo="http://only4.tv/ch/8146.png",КиноЛивинг HD
 http://cdn.only4.online/8146/index.m3u8?token=
 #EXTINF:-1 tvg-id="eye-media" tvg-logo="http://only4.tv/ch/8202.png",Eye Media
 http://cdn.only4.online/8202/index.m3u8?token=
@@ -6283,13 +6283,13 @@ http://cdn.only4.online/8413/index.m3u8?token=
 http://cdn.only4.online/7118/index.m3u8?token=
 #EXTINF:-1 tvg-id="cellcom-israel-il" tvg-logo="http://only4.tv/ch/10435.png",Cellcom Israel [IL]
 http://cdn.only4.online/10435/index.m3u8?token=
-#EXTINF:-1 tvg-id="cellcom-movies-drama-il" tvg-logo="http://only4.tv/ch/10436.png",Cellcom Movies Drama [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-drama-il" tvg-logo="http://only4.tv/ch/10436.png",Cellcom TV+ Drama [IL]
 http://cdn.only4.online/10436/index.m3u8?token=
-#EXTINF:-1 tvg-id="cellcom-movies-kids-il" tvg-logo="http://only4.tv/ch/10437.png",Cellcom Movies Kids [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-kids-il" tvg-logo="http://only4.tv/ch/10437.png",Cellcom TV+ Kids [IL]
 http://cdn.only4.online/10437/index.m3u8?token=
-#EXTINF:-1 tvg-id="cellcom-movies-action-il" tvg-logo="http://only4.tv/ch/10438.png",Cellcom Movies Action [IL]
+#EXTINF:-1 tvg-id="cellcom-movies-action-il" tvg-logo="http://only4.tv/ch/10438.png",Cellcom TV+ Action [IL]
 http://cdn.only4.online/10438/index.m3u8?token=
-#EXTINF:-1 tvg-id="cellcom-tv-hbo-hd-il" tvg-logo="http://only4.tv/ch/10439.png",Cellcom TV HBO HD [IL]
+#EXTINF:-1 tvg-id="cellcom-tv-hbo-hd-il" tvg-logo="http://only4.tv/ch/10439.png",Cellcom TV+ HBO HD [IL]
 http://cdn.only4.online/10439/index.m3u8?token=
 #EXTINF:-1 tvg-id="free-tv-movies-10-stars-il" tvg-logo="http://only4.tv/ch/10440.png",Free TV Movies 10 Stars [IL]
 http://cdn.only4.online/10440/index.m3u8?token=
@@ -7131,7 +7131,7 @@ http://cdn.only4.online/10069/index.m3u8?token=
 http://cdn.only4.online/10070/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10071.png",Film1 Premiere HD [NL]
 http://cdn.only4.online/10071/index.m3u8?token=
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/10072.png",FilmBox HD [NL]
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/10072.png",FilmBox+ one HD [NL]
 http://cdn.only4.online/10072/index.m3u8?token=
 #EXTINF:-1 tvg-id="history" tvg-logo="http://only4.tv/ch/10073.png",History [NL]
 http://cdn.only4.online/10073/index.m3u8?token=
