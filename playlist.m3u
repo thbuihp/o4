@@ -1001,7 +1001,7 @@ http://cdn.only4.online/6857/index.m3u8?token=
 http://cdn.only4.online/6860/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-ruserial" tvg-logo="http://only4.tv/ch/6292.png",BCU RUSerial HD
 http://cdn.only4.online/6292/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-sssr" tvg-logo="http://only4.tv/ch/6293.png",BCU Fantasy HDR
+#EXTINF:-1 tvg-id="bcu-fantasy-hdr" tvg-logo="http://only4.tv/ch/6293.png",BCU Fantasy HDR
 http://cdn.only4.online/6293/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-stars" tvg-logo="http://only4.tv/ch/6311.png",BCU Stars HD
 http://cdn.only4.online/6311/index.m3u8?token=
@@ -1015,7 +1015,7 @@ http://cdn.only4.online/11176/index.m3u8?token=
 http://cdn.only4.online/6641/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-criminal" tvg-logo="http://only4.tv/ch/6642.png",BCU Criminal HD
 http://cdn.only4.online/6642/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-cosmo" tvg-logo="http://only4.tv/ch/7830.png",BCU Family HDR
+#EXTINF:-1 tvg-id="bcu-family-hdr" tvg-logo="http://only4.tv/ch/7830.png",BCU Family HDR
 http://cdn.only4.online/7830/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-cosmo-hdr" tvg-logo="http://only4.tv/ch/9531.png",BCU Cosmo HDR
 http://cdn.only4.online/9531/index.m3u8?token=
@@ -1787,7 +1787,7 @@ http://cdn.only4.online/6322/index.m3u8?token=
 http://cdn.only4.online/7230/index.m3u8?token=
 #EXTINF:-1 tvg-id="bcu-kids-4k" tvg-logo="http://only4.tv/ch/7881.png",BCU Kids 4K
 http://cdn.only4.online/7881/index.m3u8?token=
-#EXTINF:-1 tvg-id="bcu-svaty-4k" tvg-logo="http://only4.tv/ch/9532.png",BCU Праздники HDR
+#EXTINF:-1 tvg-id="bcu-prazdniki-hdr" tvg-logo="http://only4.tv/ch/9532.png",BCU Праздники HDR
 http://cdn.only4.online/9532/index.m3u8?token=
 #EXTINF:-1 tvg-id="yosso-4k" tvg-logo="http://only4.tv/ch/7640.png",Yosso TV 4K
 http://cdn.only4.online/7640/index.m3u8?token=
@@ -7541,7 +7541,7 @@ http://cdn.only4.online/5555/index.m3u8?token=
 http://cdn.only4.online/5556/index.m3u8?token=
 #EXTINF:-1 tvg-id="vivid-red" tvg-logo="http://only4.tv/ch/5557.png",Vivid Red HD
 http://cdn.only4.online/5557/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://only4.tv/ch/6269.png",Соблазн
+#EXTINF:-1 tvg-id="soblazn" tvg-logo="http://only4.tv/ch/6269.png",Соблазн
 http://cdn.only4.online/6269/index.m3u8?token=
 #EXTINF:-1 tvg-id="brazzers-tv-europe" tvg-logo="http://only4.tv/ch/6270.png",Brazzers TV HD
 http://cdn.only4.online/6270/index.m3u8?token=
