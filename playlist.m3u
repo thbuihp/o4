@@ -3533,7 +3533,7 @@ http://cdn.only4.online/8851/index.m3u8?token=
 http://cdn.only4.online/8860/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8861.png",Juice TV (NZ)
 http://cdn.only4.online/8861/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8863.png",Total Music Dance
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8863.png",Total Music
 http://cdn.only4.online/8863/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8867.png",Made in BO TV
 http://cdn.only4.online/8867/index.m3u8?token=
@@ -3563,7 +3563,7 @@ http://cdn.only4.online/8891/index.m3u8?token=
 http://cdn.only4.online/8916/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8928.png",Muzzik TV
 http://cdn.only4.online/8928/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8930.png",Total Music Concerts 
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8930.png",Total Music 80s
 http://cdn.only4.online/8930/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://only4.tv/ch/8931.png",Muzzik Jeka
 http://cdn.only4.online/8931/index.m3u8?token=
@@ -5417,9 +5417,9 @@ http://cdn.only4.online/6417/index.m3u8?token=
 http://cdn.only4.online/6418/index.m3u8?token=
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-logo="http://only4.tv/ch/6419.png",Travel Channel [PL]
 http://cdn.only4.online/6419/index.m3u8?token=
-#EXTINF:-1 tvg-id="TTV.pl" tvg-logo="http://only4.tv/ch/6420.png",TTV [PL]
+#EXTINF:-1 tvg-id="ttv-pl" tvg-logo="http://only4.tv/ch/6420.png",TTV [PL]
 http://cdn.only4.online/6420/index.m3u8?token=
-#EXTINF:-1 tvg-id="TV6.pl" tvg-logo="http://only4.tv/ch/6421.png",TV 6 [PL]
+#EXTINF:-1 tvg-id="tv6-pl" tvg-logo="http://only4.tv/ch/6421.png",TV 6 [PL]
 http://cdn.only4.online/6421/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-logo="http://only4.tv/ch/6422.png",TV Puls [PL]
 http://cdn.only4.online/6422/index.m3u8?token=
@@ -5427,27 +5427,27 @@ http://cdn.only4.online/6422/index.m3u8?token=
 http://cdn.only4.online/6423/index.m3u8?token=
 #EXTINF:-1 tvg-id="TV4.pl" tvg-logo="http://only4.tv/ch/6424.png",TV 4 HD [PL]
 http://cdn.only4.online/6424/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVN.pl" tvg-logo="http://only4.tv/ch/6425.png",TVN [PL]
+#EXTINF:-1 tvg-id="tvn-pl" tvg-logo="http://only4.tv/ch/6425.png",TVN [PL]
 http://cdn.only4.online/6425/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVN24.pl" tvg-logo="http://only4.tv/ch/6426.png",TVN 24 [PL]
+#EXTINF:-1 tvg-id="tvn24-pl" tvg-logo="http://only4.tv/ch/6426.png",TVN 24 [PL]
 http://cdn.only4.online/6426/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVN24Bis.pl" tvg-logo="http://only4.tv/ch/6427.png",TVN 24 Bis [PL]
+#EXTINF:-1 tvg-id="tvn24-bis-pl" tvg-logo="http://only4.tv/ch/6427.png",TVN 24 Bis [PL]
 http://cdn.only4.online/6427/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVN7.pl" tvg-logo="http://only4.tv/ch/6428.png",TVN 7 [PL]
+#EXTINF:-1 tvg-id="tvn7-pl" tvg-logo="http://only4.tv/ch/6428.png",TVN 7 [PL]
 http://cdn.only4.online/6428/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-logo="http://only4.tv/ch/6429.png",TVN Fabula [PL]
+#EXTINF:-1 tvg-id="tvn-fabula-pl" tvg-logo="http://only4.tv/ch/6429.png",TVN Fabula [PL]
 http://cdn.only4.online/6429/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-logo="http://only4.tv/ch/6430.png",TVN Style [PL]
+#EXTINF:-1 tvg-id="tvn-style-pl" tvg-logo="http://only4.tv/ch/6430.png",TVN Style [PL]
 http://cdn.only4.online/6430/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVNTurbo.pl" tvg-logo="http://only4.tv/ch/6431.png",TVN Turbo [PL]
+#EXTINF:-1 tvg-id="tvn-turbo-pl" tvg-logo="http://only4.tv/ch/6431.png",TVN Turbo [PL]
 http://cdn.only4.online/6431/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="http://only4.tv/ch/6432.png",TVP 1 HD [PL]
+#EXTINF:-1 tvg-id="TVP1-pl" tvg-logo="http://only4.tv/ch/6432.png",TVP 1 HD [PL]
 http://cdn.only4.online/6432/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="http://only4.tv/ch/6433.png",TVP 2 [PL]
 http://cdn.only4.online/6433/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-logo="http://only4.tv/ch/6434.png",TVP ABC [PL]
+#EXTINF:-1 tvg-id="tvp-abc" tvg-logo="http://only4.tv/ch/6434.png",TVP ABC [PL]
 http://cdn.only4.online/6434/index.m3u8?token=
-#EXTINF:-1 tvg-id="TVP.pl" tvg-logo="http://only4.tv/ch/6435.png",TVP HD [PL]
+#EXTINF:-1 tvg-id="tvp-pl" tvg-logo="http://only4.tv/ch/6435.png",TVP HD [PL]
 http://cdn.only4.online/6435/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-logo="http://only4.tv/ch/6436.png",TVP Historia [PL]
 http://cdn.only4.online/6436/index.m3u8?token=
