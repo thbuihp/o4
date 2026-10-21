@@ -2619,7 +2619,7 @@ http://cdn.only4.online/10250/index.m3u8?token=
 http://cdn.only4.online/10251/index.m3u8?token=
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="http://only4.tv/ch/10849.png",Окко Прайм Спорт HD
 http://cdn.only4.online/10849/index.m3u8?token=
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://only4.tv/ch/11722.png",Окко Чемпионат
+#EXTINF:-1 tvg-id="okko-chemp" tvg-logo="http://only4.tv/ch/11722.png",Окко Чемпионат
 http://cdn.only4.online/11722/index.m3u8?token=
 #EXTINF:-1 tvg-id="equalympic" tvg-logo="http://only4.tv/ch/10682.png",Equalympic HD
 http://cdn.only4.online/10682/index.m3u8?token=
@@ -5311,9 +5311,9 @@ http://cdn.only4.online/6366/index.m3u8?token=
 http://cdn.only4.online/6367/index.m3u8?token=
 #EXTINF:-1 tvg-id="Eurosport2.pl" tvg-logo="http://only4.tv/ch/6368.png",EuroSport 2 HD [PL]
 http://cdn.only4.online/6368/index.m3u8?token=
-#EXTINF:-1 tvg-id="Eurosport3.pl" tvg-logo="http://only4.tv/ch/11716.png",EuroSport 3 HD [PL]
+#EXTINF:-1 tvg-id="eurosport-3-pl" tvg-logo="http://only4.tv/ch/11716.png",EuroSport 3 HD [PL]
 http://cdn.only4.online/11716/index.m3u8?token=
-#EXTINF:-1 tvg-id="Eurosport4.pl" tvg-logo="http://only4.tv/ch/11717.png",EuroSport 4 HD [PL]
+#EXTINF:-1 tvg-id="eurosport-4-pl" tvg-logo="http://only4.tv/ch/11717.png",EuroSport 4 HD [PL]
 http://cdn.only4.online/11717/index.m3u8?token=
 #EXTINF:-1 tvg-id="extreme-pl" tvg-logo="http://only4.tv/ch/6369.png",Extreme Sports [PL]
 http://cdn.only4.online/6369/index.m3u8?token=
