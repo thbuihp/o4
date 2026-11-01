@@ -2257,7 +2257,7 @@ http://cdn.only4.online/7207/index.m3u8?token=
 http://cdn.only4.online/7700/index.m3u8?token=
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="http://only4.tv/ch/7728.png",QazSport HD
 http://cdn.only4.online/7728/index.m3u8?token=
-#EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="http://only4.tv/ch/7730.png",Q Sport League HD
+#EXTINF:-1 tvg-id="q-sport-ext" tvg-logo="http://only4.tv/ch/7730.png",QSport 1 League HD
 http://cdn.only4.online/7730/index.m3u8?token=
 #EXTINF:-1 tvg-id="setanta-kz" tvg-logo="http://only4.tv/ch/7732.png",Setanta Sports KZ HD
 http://cdn.only4.online/7732/index.m3u8?token=
@@ -2625,9 +2625,9 @@ http://cdn.only4.online/11722/index.m3u8?token=
 http://cdn.only4.online/10682/index.m3u8?token=
 #EXTINF:-1 tvg-id="sport-plus-kz" tvg-logo="http://only4.tv/ch/10796.png",Sport Plus HD
 http://cdn.only4.online/10796/index.m3u8?token=
-#EXTINF:-1 tvg-id="qsport-kz" tvg-logo="http://only4.tv/ch/10799.png",Q Sport Arena HD
+#EXTINF:-1 tvg-id="qsport-kz" tvg-logo="http://only4.tv/ch/10799.png",QSport 2 Arena HD
 http://cdn.only4.online/10799/index.m3u8?token=
-#EXTINF:-1 tvg-id="q-football-kz" tvg-logo="http://only4.tv/ch/10808.png",Q Football HD
+#EXTINF:-1 tvg-id="q-football-kz" tvg-logo="http://only4.tv/ch/10808.png",QSport 3 Football HD
 http://cdn.only4.online/10808/index.m3u8?token=
 #EXTINF:-1 tvg-id="q-live1-kz" tvg-logo="http://only4.tv/ch/10809.png",Q Live 1 HD
 http://cdn.only4.online/10809/index.m3u8?token=
