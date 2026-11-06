@@ -3377,8 +3377,6 @@ http://cdn.only4.online/11211/index.m3u8?token=
 http://cdn.only4.online/11249/index.m3u8?token=
 #EXTINF:-1 tvg-id="goldline-civils" tvg-logo="http://only4.tv/ch/11679.png",GL Civilizations
 http://cdn.only4.online/11679/index.m3u8?token=
-#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-logo="http://only4.tv/ch/11330.png",Китай ТВ HD
-http://cdn.only4.online/11330/index.m3u8?token=
 #EXTINF:-1 tvg-id="mtv-europe" tvg-logo="http://only4.tv/ch/810.png",MTV Europe
 http://cdn.only4.online/810/index.m3u8?token=
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/10041.png",MTV Base
